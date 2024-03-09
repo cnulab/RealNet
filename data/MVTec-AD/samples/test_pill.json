@@ -1,0 +1,167 @@
+{"filename": "pill/test/faulty_imprint/012.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/012_mask.png"}
+{"filename": "pill/test/faulty_imprint/004.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/004_mask.png"}
+{"filename": "pill/test/faulty_imprint/007.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/007_mask.png"}
+{"filename": "pill/test/faulty_imprint/006.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/006_mask.png"}
+{"filename": "pill/test/faulty_imprint/002.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/002_mask.png"}
+{"filename": "pill/test/faulty_imprint/010.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/010_mask.png"}
+{"filename": "pill/test/faulty_imprint/017.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/017_mask.png"}
+{"filename": "pill/test/faulty_imprint/003.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/003_mask.png"}
+{"filename": "pill/test/faulty_imprint/015.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/015_mask.png"}
+{"filename": "pill/test/faulty_imprint/018.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/018_mask.png"}
+{"filename": "pill/test/faulty_imprint/009.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/009_mask.png"}
+{"filename": "pill/test/faulty_imprint/016.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/016_mask.png"}
+{"filename": "pill/test/faulty_imprint/000.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/000_mask.png"}
+{"filename": "pill/test/faulty_imprint/011.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/011_mask.png"}
+{"filename": "pill/test/faulty_imprint/008.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/008_mask.png"}
+{"filename": "pill/test/faulty_imprint/013.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/013_mask.png"}
+{"filename": "pill/test/faulty_imprint/014.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/014_mask.png"}
+{"filename": "pill/test/faulty_imprint/005.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/005_mask.png"}
+{"filename": "pill/test/faulty_imprint/001.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/faulty_imprint/001_mask.png"}
+{"filename": "pill/test/combined/012.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/012_mask.png"}
+{"filename": "pill/test/combined/004.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/004_mask.png"}
+{"filename": "pill/test/combined/007.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/007_mask.png"}
+{"filename": "pill/test/combined/006.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/006_mask.png"}
+{"filename": "pill/test/combined/002.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/002_mask.png"}
+{"filename": "pill/test/combined/010.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/010_mask.png"}
+{"filename": "pill/test/combined/003.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/003_mask.png"}
+{"filename": "pill/test/combined/015.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/015_mask.png"}
+{"filename": "pill/test/combined/009.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/009_mask.png"}
+{"filename": "pill/test/combined/016.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/016_mask.png"}
+{"filename": "pill/test/combined/000.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/000_mask.png"}
+{"filename": "pill/test/combined/011.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/011_mask.png"}
+{"filename": "pill/test/combined/008.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/008_mask.png"}
+{"filename": "pill/test/combined/013.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/013_mask.png"}
+{"filename": "pill/test/combined/014.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/014_mask.png"}
+{"filename": "pill/test/combined/005.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/005_mask.png"}
+{"filename": "pill/test/combined/001.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/combined/001_mask.png"}
+{"filename": "pill/test/contamination/012.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/012_mask.png"}
+{"filename": "pill/test/contamination/004.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/004_mask.png"}
+{"filename": "pill/test/contamination/007.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/007_mask.png"}
+{"filename": "pill/test/contamination/006.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/006_mask.png"}
+{"filename": "pill/test/contamination/002.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/002_mask.png"}
+{"filename": "pill/test/contamination/010.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/010_mask.png"}
+{"filename": "pill/test/contamination/017.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/017_mask.png"}
+{"filename": "pill/test/contamination/019.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/019_mask.png"}
+{"filename": "pill/test/contamination/003.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/003_mask.png"}
+{"filename": "pill/test/contamination/015.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/015_mask.png"}
+{"filename": "pill/test/contamination/018.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/018_mask.png"}
+{"filename": "pill/test/contamination/009.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/009_mask.png"}
+{"filename": "pill/test/contamination/016.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/016_mask.png"}
+{"filename": "pill/test/contamination/000.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/000_mask.png"}
+{"filename": "pill/test/contamination/011.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/011_mask.png"}
+{"filename": "pill/test/contamination/020.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/020_mask.png"}
+{"filename": "pill/test/contamination/008.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/008_mask.png"}
+{"filename": "pill/test/contamination/013.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/013_mask.png"}
+{"filename": "pill/test/contamination/014.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/014_mask.png"}
+{"filename": "pill/test/contamination/005.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/005_mask.png"}
+{"filename": "pill/test/contamination/001.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/contamination/001_mask.png"}
+{"filename": "pill/test/scratch/023.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/023_mask.png"}
+{"filename": "pill/test/scratch/012.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/012_mask.png"}
+{"filename": "pill/test/scratch/004.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/004_mask.png"}
+{"filename": "pill/test/scratch/007.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/007_mask.png"}
+{"filename": "pill/test/scratch/006.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/006_mask.png"}
+{"filename": "pill/test/scratch/002.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/002_mask.png"}
+{"filename": "pill/test/scratch/022.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/022_mask.png"}
+{"filename": "pill/test/scratch/010.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/010_mask.png"}
+{"filename": "pill/test/scratch/017.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/017_mask.png"}
+{"filename": "pill/test/scratch/019.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/019_mask.png"}
+{"filename": "pill/test/scratch/003.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/003_mask.png"}
+{"filename": "pill/test/scratch/015.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/015_mask.png"}
+{"filename": "pill/test/scratch/018.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/018_mask.png"}
+{"filename": "pill/test/scratch/021.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/021_mask.png"}
+{"filename": "pill/test/scratch/009.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/009_mask.png"}
+{"filename": "pill/test/scratch/016.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/016_mask.png"}
+{"filename": "pill/test/scratch/000.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/000_mask.png"}
+{"filename": "pill/test/scratch/011.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/011_mask.png"}
+{"filename": "pill/test/scratch/020.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/020_mask.png"}
+{"filename": "pill/test/scratch/008.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/008_mask.png"}
+{"filename": "pill/test/scratch/013.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/013_mask.png"}
+{"filename": "pill/test/scratch/014.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/014_mask.png"}
+{"filename": "pill/test/scratch/005.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/005_mask.png"}
+{"filename": "pill/test/scratch/001.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/scratch/001_mask.png"}
+{"filename": "pill/test/good/023.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/024.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/022.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/025.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "pill/test/pill_type/004.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/004_mask.png"}
+{"filename": "pill/test/pill_type/007.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/007_mask.png"}
+{"filename": "pill/test/pill_type/006.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/006_mask.png"}
+{"filename": "pill/test/pill_type/002.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/002_mask.png"}
+{"filename": "pill/test/pill_type/003.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/003_mask.png"}
+{"filename": "pill/test/pill_type/000.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/000_mask.png"}
+{"filename": "pill/test/pill_type/008.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/008_mask.png"}
+{"filename": "pill/test/pill_type/005.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/005_mask.png"}
+{"filename": "pill/test/pill_type/001.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/pill_type/001_mask.png"}
+{"filename": "pill/test/crack/023.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/023_mask.png"}
+{"filename": "pill/test/crack/012.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/012_mask.png"}
+{"filename": "pill/test/crack/024.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/024_mask.png"}
+{"filename": "pill/test/crack/004.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/004_mask.png"}
+{"filename": "pill/test/crack/007.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/007_mask.png"}
+{"filename": "pill/test/crack/006.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/006_mask.png"}
+{"filename": "pill/test/crack/002.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/002_mask.png"}
+{"filename": "pill/test/crack/022.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/022_mask.png"}
+{"filename": "pill/test/crack/010.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/010_mask.png"}
+{"filename": "pill/test/crack/017.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/017_mask.png"}
+{"filename": "pill/test/crack/019.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/019_mask.png"}
+{"filename": "pill/test/crack/003.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/003_mask.png"}
+{"filename": "pill/test/crack/015.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/015_mask.png"}
+{"filename": "pill/test/crack/018.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/018_mask.png"}
+{"filename": "pill/test/crack/021.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/021_mask.png"}
+{"filename": "pill/test/crack/025.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/025_mask.png"}
+{"filename": "pill/test/crack/009.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/009_mask.png"}
+{"filename": "pill/test/crack/016.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/016_mask.png"}
+{"filename": "pill/test/crack/000.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/000_mask.png"}
+{"filename": "pill/test/crack/011.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/011_mask.png"}
+{"filename": "pill/test/crack/020.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/020_mask.png"}
+{"filename": "pill/test/crack/008.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/008_mask.png"}
+{"filename": "pill/test/crack/013.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/013_mask.png"}
+{"filename": "pill/test/crack/014.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/014_mask.png"}
+{"filename": "pill/test/crack/005.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/005_mask.png"}
+{"filename": "pill/test/crack/001.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/crack/001_mask.png"}
+{"filename": "pill/test/color/023.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/023_mask.png"}
+{"filename": "pill/test/color/012.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/012_mask.png"}
+{"filename": "pill/test/color/024.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/024_mask.png"}
+{"filename": "pill/test/color/004.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/004_mask.png"}
+{"filename": "pill/test/color/007.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/007_mask.png"}
+{"filename": "pill/test/color/006.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/006_mask.png"}
+{"filename": "pill/test/color/002.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/002_mask.png"}
+{"filename": "pill/test/color/022.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/022_mask.png"}
+{"filename": "pill/test/color/010.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/010_mask.png"}
+{"filename": "pill/test/color/017.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/017_mask.png"}
+{"filename": "pill/test/color/019.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/019_mask.png"}
+{"filename": "pill/test/color/003.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/003_mask.png"}
+{"filename": "pill/test/color/015.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/015_mask.png"}
+{"filename": "pill/test/color/018.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/018_mask.png"}
+{"filename": "pill/test/color/021.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/021_mask.png"}
+{"filename": "pill/test/color/009.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/009_mask.png"}
+{"filename": "pill/test/color/016.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/016_mask.png"}
+{"filename": "pill/test/color/000.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/000_mask.png"}
+{"filename": "pill/test/color/011.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/011_mask.png"}
+{"filename": "pill/test/color/020.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/020_mask.png"}
+{"filename": "pill/test/color/008.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/008_mask.png"}
+{"filename": "pill/test/color/013.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/013_mask.png"}
+{"filename": "pill/test/color/014.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/014_mask.png"}
+{"filename": "pill/test/color/005.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/005_mask.png"}
+{"filename": "pill/test/color/001.png", "label": 1, "label_name": "defective", "maskname": "pill/ground_truth/color/001_mask.png"}

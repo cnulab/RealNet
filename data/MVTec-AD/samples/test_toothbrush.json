@@ -1,0 +1,42 @@
+{"filename": "toothbrush/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "toothbrush/test/defective/023.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/023_mask.png"}
+{"filename": "toothbrush/test/defective/012.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/012_mask.png"}
+{"filename": "toothbrush/test/defective/024.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/024_mask.png"}
+{"filename": "toothbrush/test/defective/004.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/004_mask.png"}
+{"filename": "toothbrush/test/defective/007.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/007_mask.png"}
+{"filename": "toothbrush/test/defective/006.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/006_mask.png"}
+{"filename": "toothbrush/test/defective/002.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/002_mask.png"}
+{"filename": "toothbrush/test/defective/022.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/022_mask.png"}
+{"filename": "toothbrush/test/defective/010.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/010_mask.png"}
+{"filename": "toothbrush/test/defective/017.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/017_mask.png"}
+{"filename": "toothbrush/test/defective/019.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/019_mask.png"}
+{"filename": "toothbrush/test/defective/003.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/003_mask.png"}
+{"filename": "toothbrush/test/defective/027.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/027_mask.png"}
+{"filename": "toothbrush/test/defective/015.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/015_mask.png"}
+{"filename": "toothbrush/test/defective/018.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/018_mask.png"}
+{"filename": "toothbrush/test/defective/021.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/021_mask.png"}
+{"filename": "toothbrush/test/defective/026.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/026_mask.png"}
+{"filename": "toothbrush/test/defective/025.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/025_mask.png"}
+{"filename": "toothbrush/test/defective/009.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/009_mask.png"}
+{"filename": "toothbrush/test/defective/028.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/028_mask.png"}
+{"filename": "toothbrush/test/defective/016.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/016_mask.png"}
+{"filename": "toothbrush/test/defective/000.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/000_mask.png"}
+{"filename": "toothbrush/test/defective/011.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/011_mask.png"}
+{"filename": "toothbrush/test/defective/020.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/020_mask.png"}
+{"filename": "toothbrush/test/defective/008.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/008_mask.png"}
+{"filename": "toothbrush/test/defective/013.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/013_mask.png"}
+{"filename": "toothbrush/test/defective/014.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/014_mask.png"}
+{"filename": "toothbrush/test/defective/005.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/005_mask.png"}
+{"filename": "toothbrush/test/defective/029.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/029_mask.png"}
+{"filename": "toothbrush/test/defective/001.png", "label": 1, "label_name": "defective", "maskname": "toothbrush/ground_truth/defective/001_mask.png"}

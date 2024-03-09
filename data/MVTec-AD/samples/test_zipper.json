@@ -1,0 +1,151 @@
+{"filename": "zipper/test/squeezed_teeth/012.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/012_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/004.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/004_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/007.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/007_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/006.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/006_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/002.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/002_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/010.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/010_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/003.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/003_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/015.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/015_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/009.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/009_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/000.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/000_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/011.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/011_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/008.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/008_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/013.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/013_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/014.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/014_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/005.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/005_mask.png"}
+{"filename": "zipper/test/squeezed_teeth/001.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/squeezed_teeth/001_mask.png"}
+{"filename": "zipper/test/fabric_interior/012.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/012_mask.png"}
+{"filename": "zipper/test/fabric_interior/004.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/004_mask.png"}
+{"filename": "zipper/test/fabric_interior/007.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/007_mask.png"}
+{"filename": "zipper/test/fabric_interior/006.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/006_mask.png"}
+{"filename": "zipper/test/fabric_interior/002.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/002_mask.png"}
+{"filename": "zipper/test/fabric_interior/010.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/010_mask.png"}
+{"filename": "zipper/test/fabric_interior/003.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/003_mask.png"}
+{"filename": "zipper/test/fabric_interior/015.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/015_mask.png"}
+{"filename": "zipper/test/fabric_interior/009.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/009_mask.png"}
+{"filename": "zipper/test/fabric_interior/000.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/000_mask.png"}
+{"filename": "zipper/test/fabric_interior/011.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/011_mask.png"}
+{"filename": "zipper/test/fabric_interior/008.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/008_mask.png"}
+{"filename": "zipper/test/fabric_interior/013.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/013_mask.png"}
+{"filename": "zipper/test/fabric_interior/014.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/014_mask.png"}
+{"filename": "zipper/test/fabric_interior/005.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/005_mask.png"}
+{"filename": "zipper/test/fabric_interior/001.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_interior/001_mask.png"}
+{"filename": "zipper/test/combined/012.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/012_mask.png"}
+{"filename": "zipper/test/combined/004.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/004_mask.png"}
+{"filename": "zipper/test/combined/007.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/007_mask.png"}
+{"filename": "zipper/test/combined/006.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/006_mask.png"}
+{"filename": "zipper/test/combined/002.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/002_mask.png"}
+{"filename": "zipper/test/combined/010.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/010_mask.png"}
+{"filename": "zipper/test/combined/003.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/003_mask.png"}
+{"filename": "zipper/test/combined/015.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/015_mask.png"}
+{"filename": "zipper/test/combined/009.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/009_mask.png"}
+{"filename": "zipper/test/combined/000.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/000_mask.png"}
+{"filename": "zipper/test/combined/011.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/011_mask.png"}
+{"filename": "zipper/test/combined/008.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/008_mask.png"}
+{"filename": "zipper/test/combined/013.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/013_mask.png"}
+{"filename": "zipper/test/combined/014.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/014_mask.png"}
+{"filename": "zipper/test/combined/005.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/005_mask.png"}
+{"filename": "zipper/test/combined/001.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/combined/001_mask.png"}
+{"filename": "zipper/test/fabric_border/012.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/012_mask.png"}
+{"filename": "zipper/test/fabric_border/004.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/004_mask.png"}
+{"filename": "zipper/test/fabric_border/007.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/007_mask.png"}
+{"filename": "zipper/test/fabric_border/006.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/006_mask.png"}
+{"filename": "zipper/test/fabric_border/002.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/002_mask.png"}
+{"filename": "zipper/test/fabric_border/010.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/010_mask.png"}
+{"filename": "zipper/test/fabric_border/003.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/003_mask.png"}
+{"filename": "zipper/test/fabric_border/015.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/015_mask.png"}
+{"filename": "zipper/test/fabric_border/009.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/009_mask.png"}
+{"filename": "zipper/test/fabric_border/016.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/016_mask.png"}
+{"filename": "zipper/test/fabric_border/000.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/000_mask.png"}
+{"filename": "zipper/test/fabric_border/011.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/011_mask.png"}
+{"filename": "zipper/test/fabric_border/008.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/008_mask.png"}
+{"filename": "zipper/test/fabric_border/013.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/013_mask.png"}
+{"filename": "zipper/test/fabric_border/014.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/014_mask.png"}
+{"filename": "zipper/test/fabric_border/005.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/005_mask.png"}
+{"filename": "zipper/test/fabric_border/001.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/fabric_border/001_mask.png"}
+{"filename": "zipper/test/good/023.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/031.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/024.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/022.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/027.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/030.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/026.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/025.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/028.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/029.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "zipper/test/split_teeth/012.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/012_mask.png"}
+{"filename": "zipper/test/split_teeth/004.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/004_mask.png"}
+{"filename": "zipper/test/split_teeth/007.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/007_mask.png"}
+{"filename": "zipper/test/split_teeth/006.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/006_mask.png"}
+{"filename": "zipper/test/split_teeth/002.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/002_mask.png"}
+{"filename": "zipper/test/split_teeth/010.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/010_mask.png"}
+{"filename": "zipper/test/split_teeth/017.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/017_mask.png"}
+{"filename": "zipper/test/split_teeth/003.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/003_mask.png"}
+{"filename": "zipper/test/split_teeth/015.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/015_mask.png"}
+{"filename": "zipper/test/split_teeth/009.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/009_mask.png"}
+{"filename": "zipper/test/split_teeth/016.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/016_mask.png"}
+{"filename": "zipper/test/split_teeth/000.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/000_mask.png"}
+{"filename": "zipper/test/split_teeth/011.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/011_mask.png"}
+{"filename": "zipper/test/split_teeth/008.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/008_mask.png"}
+{"filename": "zipper/test/split_teeth/013.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/013_mask.png"}
+{"filename": "zipper/test/split_teeth/014.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/014_mask.png"}
+{"filename": "zipper/test/split_teeth/005.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/005_mask.png"}
+{"filename": "zipper/test/split_teeth/001.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/split_teeth/001_mask.png"}
+{"filename": "zipper/test/broken_teeth/012.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/012_mask.png"}
+{"filename": "zipper/test/broken_teeth/004.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/004_mask.png"}
+{"filename": "zipper/test/broken_teeth/007.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/007_mask.png"}
+{"filename": "zipper/test/broken_teeth/006.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/006_mask.png"}
+{"filename": "zipper/test/broken_teeth/002.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/002_mask.png"}
+{"filename": "zipper/test/broken_teeth/010.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/010_mask.png"}
+{"filename": "zipper/test/broken_teeth/017.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/017_mask.png"}
+{"filename": "zipper/test/broken_teeth/003.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/003_mask.png"}
+{"filename": "zipper/test/broken_teeth/015.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/015_mask.png"}
+{"filename": "zipper/test/broken_teeth/018.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/018_mask.png"}
+{"filename": "zipper/test/broken_teeth/009.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/009_mask.png"}
+{"filename": "zipper/test/broken_teeth/016.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/016_mask.png"}
+{"filename": "zipper/test/broken_teeth/000.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/000_mask.png"}
+{"filename": "zipper/test/broken_teeth/011.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/011_mask.png"}
+{"filename": "zipper/test/broken_teeth/008.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/008_mask.png"}
+{"filename": "zipper/test/broken_teeth/013.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/013_mask.png"}
+{"filename": "zipper/test/broken_teeth/014.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/014_mask.png"}
+{"filename": "zipper/test/broken_teeth/005.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/005_mask.png"}
+{"filename": "zipper/test/broken_teeth/001.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/broken_teeth/001_mask.png"}
+{"filename": "zipper/test/rough/012.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/012_mask.png"}
+{"filename": "zipper/test/rough/004.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/004_mask.png"}
+{"filename": "zipper/test/rough/007.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/007_mask.png"}
+{"filename": "zipper/test/rough/006.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/006_mask.png"}
+{"filename": "zipper/test/rough/002.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/002_mask.png"}
+{"filename": "zipper/test/rough/010.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/010_mask.png"}
+{"filename": "zipper/test/rough/003.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/003_mask.png"}
+{"filename": "zipper/test/rough/015.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/015_mask.png"}
+{"filename": "zipper/test/rough/009.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/009_mask.png"}
+{"filename": "zipper/test/rough/016.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/016_mask.png"}
+{"filename": "zipper/test/rough/000.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/000_mask.png"}
+{"filename": "zipper/test/rough/011.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/011_mask.png"}
+{"filename": "zipper/test/rough/008.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/008_mask.png"}
+{"filename": "zipper/test/rough/013.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/013_mask.png"}
+{"filename": "zipper/test/rough/014.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/014_mask.png"}
+{"filename": "zipper/test/rough/005.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/005_mask.png"}
+{"filename": "zipper/test/rough/001.png", "label": 1, "label_name": "defective", "maskname": "zipper/ground_truth/rough/001_mask.png"}

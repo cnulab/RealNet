@@ -1,0 +1,150 @@
+{"filename": "cable/test/missing_cable/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/004_mask.png"}
+{"filename": "cable/test/missing_cable/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/007_mask.png"}
+{"filename": "cable/test/missing_cable/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/006_mask.png"}
+{"filename": "cable/test/missing_cable/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/002_mask.png"}
+{"filename": "cable/test/missing_cable/010.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/010_mask.png"}
+{"filename": "cable/test/missing_cable/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/003_mask.png"}
+{"filename": "cable/test/missing_cable/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/009_mask.png"}
+{"filename": "cable/test/missing_cable/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/000_mask.png"}
+{"filename": "cable/test/missing_cable/011.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/011_mask.png"}
+{"filename": "cable/test/missing_cable/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/008_mask.png"}
+{"filename": "cable/test/missing_cable/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/005_mask.png"}
+{"filename": "cable/test/missing_cable/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_cable/001_mask.png"}
+{"filename": "cable/test/bent_wire/012.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/012_mask.png"}
+{"filename": "cable/test/bent_wire/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/004_mask.png"}
+{"filename": "cable/test/bent_wire/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/007_mask.png"}
+{"filename": "cable/test/bent_wire/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/006_mask.png"}
+{"filename": "cable/test/bent_wire/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/002_mask.png"}
+{"filename": "cable/test/bent_wire/010.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/010_mask.png"}
+{"filename": "cable/test/bent_wire/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/003_mask.png"}
+{"filename": "cable/test/bent_wire/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/009_mask.png"}
+{"filename": "cable/test/bent_wire/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/000_mask.png"}
+{"filename": "cable/test/bent_wire/011.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/011_mask.png"}
+{"filename": "cable/test/bent_wire/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/008_mask.png"}
+{"filename": "cable/test/bent_wire/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/005_mask.png"}
+{"filename": "cable/test/bent_wire/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/bent_wire/001_mask.png"}
+{"filename": "cable/test/missing_wire/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/004_mask.png"}
+{"filename": "cable/test/missing_wire/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/007_mask.png"}
+{"filename": "cable/test/missing_wire/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/006_mask.png"}
+{"filename": "cable/test/missing_wire/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/002_mask.png"}
+{"filename": "cable/test/missing_wire/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/003_mask.png"}
+{"filename": "cable/test/missing_wire/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/009_mask.png"}
+{"filename": "cable/test/missing_wire/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/000_mask.png"}
+{"filename": "cable/test/missing_wire/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/008_mask.png"}
+{"filename": "cable/test/missing_wire/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/005_mask.png"}
+{"filename": "cable/test/missing_wire/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/missing_wire/001_mask.png"}
+{"filename": "cable/test/combined/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/004_mask.png"}
+{"filename": "cable/test/combined/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/007_mask.png"}
+{"filename": "cable/test/combined/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/006_mask.png"}
+{"filename": "cable/test/combined/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/002_mask.png"}
+{"filename": "cable/test/combined/010.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/010_mask.png"}
+{"filename": "cable/test/combined/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/003_mask.png"}
+{"filename": "cable/test/combined/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/009_mask.png"}
+{"filename": "cable/test/combined/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/000_mask.png"}
+{"filename": "cable/test/combined/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/008_mask.png"}
+{"filename": "cable/test/combined/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/005_mask.png"}
+{"filename": "cable/test/combined/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/combined/001_mask.png"}
+{"filename": "cable/test/good/023.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/043.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/031.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/054.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/048.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/050.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/024.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/044.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/051.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/049.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/022.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/045.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/038.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/034.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/027.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/032.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/040.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/039.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/030.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/026.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/037.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/052.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/047.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/025.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/041.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/033.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/028.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/055.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/053.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/046.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/056.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/036.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/042.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/035.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/029.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/good/057.png", "label": 0, "label_name": "good"}
+{"filename": "cable/test/cut_inner_insulation/012.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/012_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/004_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/007_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/006_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/002_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/010.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/010_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/003_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/009_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/000_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/011.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/011_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/008_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/013.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/013_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/005_mask.png"}
+{"filename": "cable/test/cut_inner_insulation/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_inner_insulation/001_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/004_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/007_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/006_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/002_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/003_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/009_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/000_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/008_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/005_mask.png"}
+{"filename": "cable/test/cut_outer_insulation/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cut_outer_insulation/001_mask.png"}
+{"filename": "cable/test/poke_insulation/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/004_mask.png"}
+{"filename": "cable/test/poke_insulation/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/007_mask.png"}
+{"filename": "cable/test/poke_insulation/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/006_mask.png"}
+{"filename": "cable/test/poke_insulation/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/002_mask.png"}
+{"filename": "cable/test/poke_insulation/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/003_mask.png"}
+{"filename": "cable/test/poke_insulation/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/009_mask.png"}
+{"filename": "cable/test/poke_insulation/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/000_mask.png"}
+{"filename": "cable/test/poke_insulation/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/008_mask.png"}
+{"filename": "cable/test/poke_insulation/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/005_mask.png"}
+{"filename": "cable/test/poke_insulation/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/poke_insulation/001_mask.png"}
+{"filename": "cable/test/cable_swap/004.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/004_mask.png"}
+{"filename": "cable/test/cable_swap/007.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/007_mask.png"}
+{"filename": "cable/test/cable_swap/006.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/006_mask.png"}
+{"filename": "cable/test/cable_swap/002.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/002_mask.png"}
+{"filename": "cable/test/cable_swap/010.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/010_mask.png"}
+{"filename": "cable/test/cable_swap/003.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/003_mask.png"}
+{"filename": "cable/test/cable_swap/009.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/009_mask.png"}
+{"filename": "cable/test/cable_swap/000.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/000_mask.png"}
+{"filename": "cable/test/cable_swap/011.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/011_mask.png"}
+{"filename": "cable/test/cable_swap/008.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/008_mask.png"}
+{"filename": "cable/test/cable_swap/005.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/005_mask.png"}
+{"filename": "cable/test/cable_swap/001.png", "label": 1, "label_name": "defective", "maskname": "cable/ground_truth/cable_swap/001_mask.png"}

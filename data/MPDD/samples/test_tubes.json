@@ -1,0 +1,101 @@
+{"filename": "tubes/test/anomalous/000.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/000_mask.png"}
+{"filename": "tubes/test/anomalous/001.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/001_mask.png"}
+{"filename": "tubes/test/anomalous/002.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/002_mask.png"}
+{"filename": "tubes/test/anomalous/003.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/003_mask.png"}
+{"filename": "tubes/test/anomalous/004.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/004_mask.png"}
+{"filename": "tubes/test/anomalous/005.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/005_mask.png"}
+{"filename": "tubes/test/anomalous/006.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/006_mask.png"}
+{"filename": "tubes/test/anomalous/007.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/007_mask.png"}
+{"filename": "tubes/test/anomalous/008.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/008_mask.png"}
+{"filename": "tubes/test/anomalous/009.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/009_mask.png"}
+{"filename": "tubes/test/anomalous/010.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/010_mask.png"}
+{"filename": "tubes/test/anomalous/011.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/011_mask.png"}
+{"filename": "tubes/test/anomalous/012.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/012_mask.png"}
+{"filename": "tubes/test/anomalous/013.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/013_mask.png"}
+{"filename": "tubes/test/anomalous/014.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/014_mask.png"}
+{"filename": "tubes/test/anomalous/015.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/015_mask.png"}
+{"filename": "tubes/test/anomalous/016.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/016_mask.png"}
+{"filename": "tubes/test/anomalous/017.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/017_mask.png"}
+{"filename": "tubes/test/anomalous/018.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/018_mask.png"}
+{"filename": "tubes/test/anomalous/019.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/019_mask.png"}
+{"filename": "tubes/test/anomalous/020.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/020_mask.png"}
+{"filename": "tubes/test/anomalous/021.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/021_mask.png"}
+{"filename": "tubes/test/anomalous/022.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/022_mask.png"}
+{"filename": "tubes/test/anomalous/023.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/023_mask.png"}
+{"filename": "tubes/test/anomalous/024.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/024_mask.png"}
+{"filename": "tubes/test/anomalous/025.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/025_mask.png"}
+{"filename": "tubes/test/anomalous/026.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/026_mask.png"}
+{"filename": "tubes/test/anomalous/027.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/027_mask.png"}
+{"filename": "tubes/test/anomalous/028.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/028_mask.png"}
+{"filename": "tubes/test/anomalous/029.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/029_mask.png"}
+{"filename": "tubes/test/anomalous/030.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/030_mask.png"}
+{"filename": "tubes/test/anomalous/031.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/031_mask.png"}
+{"filename": "tubes/test/anomalous/032.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/032_mask.png"}
+{"filename": "tubes/test/anomalous/033.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/033_mask.png"}
+{"filename": "tubes/test/anomalous/034.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/034_mask.png"}
+{"filename": "tubes/test/anomalous/035.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/035_mask.png"}
+{"filename": "tubes/test/anomalous/036.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/036_mask.png"}
+{"filename": "tubes/test/anomalous/037.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/037_mask.png"}
+{"filename": "tubes/test/anomalous/038.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/038_mask.png"}
+{"filename": "tubes/test/anomalous/039.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/039_mask.png"}
+{"filename": "tubes/test/anomalous/040.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/040_mask.png"}
+{"filename": "tubes/test/anomalous/041.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/041_mask.png"}
+{"filename": "tubes/test/anomalous/042.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/042_mask.png"}
+{"filename": "tubes/test/anomalous/043.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/043_mask.png"}
+{"filename": "tubes/test/anomalous/044.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/044_mask.png"}
+{"filename": "tubes/test/anomalous/045.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/045_mask.png"}
+{"filename": "tubes/test/anomalous/046.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/046_mask.png"}
+{"filename": "tubes/test/anomalous/047.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/047_mask.png"}
+{"filename": "tubes/test/anomalous/048.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/048_mask.png"}
+{"filename": "tubes/test/anomalous/049.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/049_mask.png"}
+{"filename": "tubes/test/anomalous/050.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/050_mask.png"}
+{"filename": "tubes/test/anomalous/051.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/051_mask.png"}
+{"filename": "tubes/test/anomalous/052.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/052_mask.png"}
+{"filename": "tubes/test/anomalous/053.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/053_mask.png"}
+{"filename": "tubes/test/anomalous/054.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/054_mask.png"}
+{"filename": "tubes/test/anomalous/055.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/055_mask.png"}
+{"filename": "tubes/test/anomalous/056.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/056_mask.png"}
+{"filename": "tubes/test/anomalous/057.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/057_mask.png"}
+{"filename": "tubes/test/anomalous/058.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/058_mask.png"}
+{"filename": "tubes/test/anomalous/059.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/059_mask.png"}
+{"filename": "tubes/test/anomalous/060.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/060_mask.png"}
+{"filename": "tubes/test/anomalous/061.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/061_mask.png"}
+{"filename": "tubes/test/anomalous/062.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/062_mask.png"}
+{"filename": "tubes/test/anomalous/063.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/063_mask.png"}
+{"filename": "tubes/test/anomalous/064.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/064_mask.png"}
+{"filename": "tubes/test/anomalous/065.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/065_mask.png"}
+{"filename": "tubes/test/anomalous/066.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/066_mask.png"}
+{"filename": "tubes/test/anomalous/067.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/067_mask.png"}
+{"filename": "tubes/test/anomalous/068.png", "label": 1, "label_name": "defective", "clsname": "tubes", "maskname": "tubes/ground_truth/anomalous/068_mask.png"}
+{"filename": "tubes/test/good/000.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/001.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/002.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/003.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/004.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/005.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/006.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/007.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/008.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/009.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/010.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/011.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/012.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/013.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/014.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/015.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/016.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/017.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/018.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/019.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/020.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/021.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/022.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/023.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/024.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/025.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/026.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/027.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/028.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/029.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/030.png", "label": 0, "label_name": "good", "clsname": "tubes"}
+{"filename": "tubes/test/good/031.png", "label": 0, "label_name": "good", "clsname": "tubes"}

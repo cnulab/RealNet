@@ -1,0 +1,160 @@
+{"filename": "screw/test/scratch_neck/023.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/023_mask.png"}
+{"filename": "screw/test/scratch_neck/012.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/012_mask.png"}
+{"filename": "screw/test/scratch_neck/024.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/024_mask.png"}
+{"filename": "screw/test/scratch_neck/004.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/004_mask.png"}
+{"filename": "screw/test/scratch_neck/007.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/007_mask.png"}
+{"filename": "screw/test/scratch_neck/006.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/006_mask.png"}
+{"filename": "screw/test/scratch_neck/002.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/002_mask.png"}
+{"filename": "screw/test/scratch_neck/022.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/022_mask.png"}
+{"filename": "screw/test/scratch_neck/010.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/010_mask.png"}
+{"filename": "screw/test/scratch_neck/017.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/017_mask.png"}
+{"filename": "screw/test/scratch_neck/019.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/019_mask.png"}
+{"filename": "screw/test/scratch_neck/003.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/003_mask.png"}
+{"filename": "screw/test/scratch_neck/015.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/015_mask.png"}
+{"filename": "screw/test/scratch_neck/018.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/018_mask.png"}
+{"filename": "screw/test/scratch_neck/021.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/021_mask.png"}
+{"filename": "screw/test/scratch_neck/009.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/009_mask.png"}
+{"filename": "screw/test/scratch_neck/016.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/016_mask.png"}
+{"filename": "screw/test/scratch_neck/000.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/000_mask.png"}
+{"filename": "screw/test/scratch_neck/011.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/011_mask.png"}
+{"filename": "screw/test/scratch_neck/020.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/020_mask.png"}
+{"filename": "screw/test/scratch_neck/008.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/008_mask.png"}
+{"filename": "screw/test/scratch_neck/013.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/013_mask.png"}
+{"filename": "screw/test/scratch_neck/014.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/014_mask.png"}
+{"filename": "screw/test/scratch_neck/005.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/005_mask.png"}
+{"filename": "screw/test/scratch_neck/001.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_neck/001_mask.png"}
+{"filename": "screw/test/good/023.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/031.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/024.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/022.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/038.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/034.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/027.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/032.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/040.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/039.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/030.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/026.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/037.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/025.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/033.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/028.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/036.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/035.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/029.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "screw/test/thread_top/012.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/012_mask.png"}
+{"filename": "screw/test/thread_top/004.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/004_mask.png"}
+{"filename": "screw/test/thread_top/007.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/007_mask.png"}
+{"filename": "screw/test/thread_top/006.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/006_mask.png"}
+{"filename": "screw/test/thread_top/002.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/002_mask.png"}
+{"filename": "screw/test/thread_top/022.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/022_mask.png"}
+{"filename": "screw/test/thread_top/010.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/010_mask.png"}
+{"filename": "screw/test/thread_top/017.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/017_mask.png"}
+{"filename": "screw/test/thread_top/019.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/019_mask.png"}
+{"filename": "screw/test/thread_top/003.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/003_mask.png"}
+{"filename": "screw/test/thread_top/015.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/015_mask.png"}
+{"filename": "screw/test/thread_top/018.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/018_mask.png"}
+{"filename": "screw/test/thread_top/021.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/021_mask.png"}
+{"filename": "screw/test/thread_top/009.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/009_mask.png"}
+{"filename": "screw/test/thread_top/016.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/016_mask.png"}
+{"filename": "screw/test/thread_top/000.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/000_mask.png"}
+{"filename": "screw/test/thread_top/011.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/011_mask.png"}
+{"filename": "screw/test/thread_top/020.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/020_mask.png"}
+{"filename": "screw/test/thread_top/008.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/008_mask.png"}
+{"filename": "screw/test/thread_top/013.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/013_mask.png"}
+{"filename": "screw/test/thread_top/014.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/014_mask.png"}
+{"filename": "screw/test/thread_top/005.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/005_mask.png"}
+{"filename": "screw/test/thread_top/001.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_top/001_mask.png"}
+{"filename": "screw/test/manipulated_front/023.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/023_mask.png"}
+{"filename": "screw/test/manipulated_front/012.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/012_mask.png"}
+{"filename": "screw/test/manipulated_front/004.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/004_mask.png"}
+{"filename": "screw/test/manipulated_front/007.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/007_mask.png"}
+{"filename": "screw/test/manipulated_front/006.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/006_mask.png"}
+{"filename": "screw/test/manipulated_front/002.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/002_mask.png"}
+{"filename": "screw/test/manipulated_front/022.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/022_mask.png"}
+{"filename": "screw/test/manipulated_front/010.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/010_mask.png"}
+{"filename": "screw/test/manipulated_front/017.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/017_mask.png"}
+{"filename": "screw/test/manipulated_front/019.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/019_mask.png"}
+{"filename": "screw/test/manipulated_front/003.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/003_mask.png"}
+{"filename": "screw/test/manipulated_front/015.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/015_mask.png"}
+{"filename": "screw/test/manipulated_front/018.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/018_mask.png"}
+{"filename": "screw/test/manipulated_front/021.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/021_mask.png"}
+{"filename": "screw/test/manipulated_front/009.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/009_mask.png"}
+{"filename": "screw/test/manipulated_front/016.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/016_mask.png"}
+{"filename": "screw/test/manipulated_front/000.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/000_mask.png"}
+{"filename": "screw/test/manipulated_front/011.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/011_mask.png"}
+{"filename": "screw/test/manipulated_front/020.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/020_mask.png"}
+{"filename": "screw/test/manipulated_front/008.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/008_mask.png"}
+{"filename": "screw/test/manipulated_front/013.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/013_mask.png"}
+{"filename": "screw/test/manipulated_front/014.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/014_mask.png"}
+{"filename": "screw/test/manipulated_front/005.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/005_mask.png"}
+{"filename": "screw/test/manipulated_front/001.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/manipulated_front/001_mask.png"}
+{"filename": "screw/test/scratch_head/023.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/023_mask.png"}
+{"filename": "screw/test/scratch_head/012.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/012_mask.png"}
+{"filename": "screw/test/scratch_head/004.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/004_mask.png"}
+{"filename": "screw/test/scratch_head/007.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/007_mask.png"}
+{"filename": "screw/test/scratch_head/006.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/006_mask.png"}
+{"filename": "screw/test/scratch_head/002.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/002_mask.png"}
+{"filename": "screw/test/scratch_head/022.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/022_mask.png"}
+{"filename": "screw/test/scratch_head/010.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/010_mask.png"}
+{"filename": "screw/test/scratch_head/017.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/017_mask.png"}
+{"filename": "screw/test/scratch_head/019.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/019_mask.png"}
+{"filename": "screw/test/scratch_head/003.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/003_mask.png"}
+{"filename": "screw/test/scratch_head/015.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/015_mask.png"}
+{"filename": "screw/test/scratch_head/018.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/018_mask.png"}
+{"filename": "screw/test/scratch_head/021.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/021_mask.png"}
+{"filename": "screw/test/scratch_head/009.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/009_mask.png"}
+{"filename": "screw/test/scratch_head/016.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/016_mask.png"}
+{"filename": "screw/test/scratch_head/000.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/000_mask.png"}
+{"filename": "screw/test/scratch_head/011.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/011_mask.png"}
+{"filename": "screw/test/scratch_head/020.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/020_mask.png"}
+{"filename": "screw/test/scratch_head/008.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/008_mask.png"}
+{"filename": "screw/test/scratch_head/013.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/013_mask.png"}
+{"filename": "screw/test/scratch_head/014.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/014_mask.png"}
+{"filename": "screw/test/scratch_head/005.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/005_mask.png"}
+{"filename": "screw/test/scratch_head/001.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/scratch_head/001_mask.png"}
+{"filename": "screw/test/thread_side/012.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/012_mask.png"}
+{"filename": "screw/test/thread_side/004.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/004_mask.png"}
+{"filename": "screw/test/thread_side/007.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/007_mask.png"}
+{"filename": "screw/test/thread_side/006.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/006_mask.png"}
+{"filename": "screw/test/thread_side/002.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/002_mask.png"}
+{"filename": "screw/test/thread_side/022.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/022_mask.png"}
+{"filename": "screw/test/thread_side/010.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/010_mask.png"}
+{"filename": "screw/test/thread_side/017.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/017_mask.png"}
+{"filename": "screw/test/thread_side/019.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/019_mask.png"}
+{"filename": "screw/test/thread_side/003.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/003_mask.png"}
+{"filename": "screw/test/thread_side/015.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/015_mask.png"}
+{"filename": "screw/test/thread_side/018.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/018_mask.png"}
+{"filename": "screw/test/thread_side/021.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/021_mask.png"}
+{"filename": "screw/test/thread_side/009.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/009_mask.png"}
+{"filename": "screw/test/thread_side/016.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/016_mask.png"}
+{"filename": "screw/test/thread_side/000.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/000_mask.png"}
+{"filename": "screw/test/thread_side/011.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/011_mask.png"}
+{"filename": "screw/test/thread_side/020.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/020_mask.png"}
+{"filename": "screw/test/thread_side/008.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/008_mask.png"}
+{"filename": "screw/test/thread_side/013.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/013_mask.png"}
+{"filename": "screw/test/thread_side/014.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/014_mask.png"}
+{"filename": "screw/test/thread_side/005.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/005_mask.png"}
+{"filename": "screw/test/thread_side/001.png", "label": 1, "label_name": "defective", "maskname": "screw/ground_truth/thread_side/001_mask.png"}

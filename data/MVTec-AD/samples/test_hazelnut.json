@@ -1,0 +1,110 @@
+{"filename": "hazelnut/test/good/023.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/031.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/024.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/022.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/038.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/034.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/027.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/032.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/039.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/030.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/026.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/037.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/025.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/033.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/028.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/036.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/035.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/029.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "hazelnut/test/crack/012.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/012_mask.png"}
+{"filename": "hazelnut/test/crack/004.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/004_mask.png"}
+{"filename": "hazelnut/test/crack/007.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/007_mask.png"}
+{"filename": "hazelnut/test/crack/006.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/006_mask.png"}
+{"filename": "hazelnut/test/crack/002.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/002_mask.png"}
+{"filename": "hazelnut/test/crack/010.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/010_mask.png"}
+{"filename": "hazelnut/test/crack/017.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/017_mask.png"}
+{"filename": "hazelnut/test/crack/003.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/003_mask.png"}
+{"filename": "hazelnut/test/crack/015.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/015_mask.png"}
+{"filename": "hazelnut/test/crack/009.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/009_mask.png"}
+{"filename": "hazelnut/test/crack/016.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/016_mask.png"}
+{"filename": "hazelnut/test/crack/000.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/000_mask.png"}
+{"filename": "hazelnut/test/crack/011.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/011_mask.png"}
+{"filename": "hazelnut/test/crack/008.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/008_mask.png"}
+{"filename": "hazelnut/test/crack/013.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/013_mask.png"}
+{"filename": "hazelnut/test/crack/014.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/014_mask.png"}
+{"filename": "hazelnut/test/crack/005.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/005_mask.png"}
+{"filename": "hazelnut/test/crack/001.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/crack/001_mask.png"}
+{"filename": "hazelnut/test/hole/012.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/012_mask.png"}
+{"filename": "hazelnut/test/hole/004.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/004_mask.png"}
+{"filename": "hazelnut/test/hole/007.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/007_mask.png"}
+{"filename": "hazelnut/test/hole/006.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/006_mask.png"}
+{"filename": "hazelnut/test/hole/002.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/002_mask.png"}
+{"filename": "hazelnut/test/hole/010.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/010_mask.png"}
+{"filename": "hazelnut/test/hole/017.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/017_mask.png"}
+{"filename": "hazelnut/test/hole/003.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/003_mask.png"}
+{"filename": "hazelnut/test/hole/015.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/015_mask.png"}
+{"filename": "hazelnut/test/hole/009.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/009_mask.png"}
+{"filename": "hazelnut/test/hole/016.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/016_mask.png"}
+{"filename": "hazelnut/test/hole/000.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/000_mask.png"}
+{"filename": "hazelnut/test/hole/011.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/011_mask.png"}
+{"filename": "hazelnut/test/hole/008.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/008_mask.png"}
+{"filename": "hazelnut/test/hole/013.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/013_mask.png"}
+{"filename": "hazelnut/test/hole/014.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/014_mask.png"}
+{"filename": "hazelnut/test/hole/005.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/005_mask.png"}
+{"filename": "hazelnut/test/hole/001.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/hole/001_mask.png"}
+{"filename": "hazelnut/test/cut/012.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/012_mask.png"}
+{"filename": "hazelnut/test/cut/004.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/004_mask.png"}
+{"filename": "hazelnut/test/cut/007.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/007_mask.png"}
+{"filename": "hazelnut/test/cut/006.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/006_mask.png"}
+{"filename": "hazelnut/test/cut/002.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/002_mask.png"}
+{"filename": "hazelnut/test/cut/010.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/010_mask.png"}
+{"filename": "hazelnut/test/cut/003.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/003_mask.png"}
+{"filename": "hazelnut/test/cut/015.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/015_mask.png"}
+{"filename": "hazelnut/test/cut/009.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/009_mask.png"}
+{"filename": "hazelnut/test/cut/016.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/016_mask.png"}
+{"filename": "hazelnut/test/cut/000.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/000_mask.png"}
+{"filename": "hazelnut/test/cut/011.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/011_mask.png"}
+{"filename": "hazelnut/test/cut/008.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/008_mask.png"}
+{"filename": "hazelnut/test/cut/013.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/013_mask.png"}
+{"filename": "hazelnut/test/cut/014.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/014_mask.png"}
+{"filename": "hazelnut/test/cut/005.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/005_mask.png"}
+{"filename": "hazelnut/test/cut/001.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/cut/001_mask.png"}
+{"filename": "hazelnut/test/print/012.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/012_mask.png"}
+{"filename": "hazelnut/test/print/004.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/004_mask.png"}
+{"filename": "hazelnut/test/print/007.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/007_mask.png"}
+{"filename": "hazelnut/test/print/006.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/006_mask.png"}
+{"filename": "hazelnut/test/print/002.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/002_mask.png"}
+{"filename": "hazelnut/test/print/010.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/010_mask.png"}
+{"filename": "hazelnut/test/print/003.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/003_mask.png"}
+{"filename": "hazelnut/test/print/015.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/015_mask.png"}
+{"filename": "hazelnut/test/print/009.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/009_mask.png"}
+{"filename": "hazelnut/test/print/016.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/016_mask.png"}
+{"filename": "hazelnut/test/print/000.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/000_mask.png"}
+{"filename": "hazelnut/test/print/011.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/011_mask.png"}
+{"filename": "hazelnut/test/print/008.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/008_mask.png"}
+{"filename": "hazelnut/test/print/013.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/013_mask.png"}
+{"filename": "hazelnut/test/print/014.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/014_mask.png"}
+{"filename": "hazelnut/test/print/005.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/005_mask.png"}
+{"filename": "hazelnut/test/print/001.png", "label": 1, "label_name": "defective", "maskname": "hazelnut/ground_truth/print/001_mask.png"}

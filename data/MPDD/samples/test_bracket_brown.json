@@ -1,0 +1,77 @@
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/000.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/000_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/001.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/001_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/002.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/002_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/003.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/003_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/004.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/004_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/005.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/005_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/006.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/006_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/007.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/007_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/008.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/008_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/009.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/009_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/010.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/010_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/011.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/011_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/012.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/012_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/013.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/013_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/014.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/014_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/015.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/015_mask.png"}
+{"filename": "bracket_brown/test/bend_and_parts_mismatch/016.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/bend_and_parts_mismatch/016_mask.png"}
+{"filename": "bracket_brown/test/good/000.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/001.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/002.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/003.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/004.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/005.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/006.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/007.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/008.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/009.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/010.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/011.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/012.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/013.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/014.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/015.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/016.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/017.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/018.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/019.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/020.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/021.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/022.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/023.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/024.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/good/025.png", "label": 0, "label_name": "good", "clsname": "bracket_brown"}
+{"filename": "bracket_brown/test/parts_mismatch/000.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/000_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/001.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/001_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/002.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/002_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/003.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/003_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/004.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/004_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/005.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/005_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/006.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/006_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/007.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/007_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/008.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/008_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/009.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/009_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/010.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/010_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/011.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/011_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/012.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/012_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/013.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/013_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/014.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/014_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/015.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/015_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/016.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/016_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/017.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/017_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/018.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/018_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/019.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/019_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/020.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/020_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/021.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/021_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/022.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/022_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/023.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/023_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/024.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/024_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/025.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/025_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/026.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/026_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/027.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/027_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/028.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/028_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/029.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/029_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/030.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/030_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/031.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/031_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/032.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/032_mask.png"}
+{"filename": "bracket_brown/test/parts_mismatch/033.png", "label": 1, "label_name": "defective", "clsname": "bracket_brown", "maskname": "bracket_brown/ground_truth/parts_mismatch/033_mask.png"}

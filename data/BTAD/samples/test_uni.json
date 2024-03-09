@@ -1,0 +1,741 @@
+{"filename": "01/test/ko/0000.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0000.png"}
+{"filename": "01/test/ko/0001.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0001.png"}
+{"filename": "01/test/ko/0002.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0002.png"}
+{"filename": "01/test/ko/0003.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0003.png"}
+{"filename": "01/test/ko/0004.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0004.png"}
+{"filename": "01/test/ko/0005.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0005.png"}
+{"filename": "01/test/ko/0006.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0006.png"}
+{"filename": "01/test/ko/0007.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0007.png"}
+{"filename": "01/test/ko/0008.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0008.png"}
+{"filename": "01/test/ko/0009.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0009.png"}
+{"filename": "01/test/ko/0010.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0010.png"}
+{"filename": "01/test/ko/0011.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0011.png"}
+{"filename": "01/test/ko/0012.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0012.png"}
+{"filename": "01/test/ko/0013.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0013.png"}
+{"filename": "01/test/ko/0014.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0014.png"}
+{"filename": "01/test/ko/0015.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0015.png"}
+{"filename": "01/test/ko/0016.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0016.png"}
+{"filename": "01/test/ko/0017.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0017.png"}
+{"filename": "01/test/ko/0018.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0018.png"}
+{"filename": "01/test/ko/0019.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0019.png"}
+{"filename": "01/test/ko/0020.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0020.png"}
+{"filename": "01/test/ko/0021.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0021.png"}
+{"filename": "01/test/ko/0022.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0022.png"}
+{"filename": "01/test/ko/0023.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0023.png"}
+{"filename": "01/test/ko/0024.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0024.png"}
+{"filename": "01/test/ko/0025.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0025.png"}
+{"filename": "01/test/ko/0026.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0026.png"}
+{"filename": "01/test/ko/0028.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0028.png"}
+{"filename": "01/test/ko/0029.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0029.png"}
+{"filename": "01/test/ko/0030.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0030.png"}
+{"filename": "01/test/ko/0031.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0031.png"}
+{"filename": "01/test/ko/0032.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0032.png"}
+{"filename": "01/test/ko/0033.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0033.png"}
+{"filename": "01/test/ko/0034.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0034.png"}
+{"filename": "01/test/ko/0035.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0035.png"}
+{"filename": "01/test/ko/0036.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0036.png"}
+{"filename": "01/test/ko/0037.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0037.png"}
+{"filename": "01/test/ko/0038.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0038.png"}
+{"filename": "01/test/ko/0039.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0039.png"}
+{"filename": "01/test/ko/0040.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0040.png"}
+{"filename": "01/test/ko/0041.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0041.png"}
+{"filename": "01/test/ko/0042.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0042.png"}
+{"filename": "01/test/ko/0043.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0043.png"}
+{"filename": "01/test/ko/0044.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0044.png"}
+{"filename": "01/test/ko/0045.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0045.png"}
+{"filename": "01/test/ko/0046.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0046.png"}
+{"filename": "01/test/ko/0047.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0047.png"}
+{"filename": "01/test/ko/0048.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0048.png"}
+{"filename": "01/test/ko/0049.bmp", "label": 1, "label_name": "defective", "clsname": "01", "maskname": "01/ground_truth/ko/0049.png"}
+{"filename": "01/test/ok/0000.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0001.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0002.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0003.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0004.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0005.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0006.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0007.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0008.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0009.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0010.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0011.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0012.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0013.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0014.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0015.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0016.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0017.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0018.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0019.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "01/test/ok/0020.bmp", "label": 0, "label_name": "good", "clsname": "01"}
+{"filename": "02/test/ko/0000.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0000.png"}
+{"filename": "02/test/ko/0001.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0001.png"}
+{"filename": "02/test/ko/0002.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0002.png"}
+{"filename": "02/test/ko/0003.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0003.png"}
+{"filename": "02/test/ko/0004.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0004.png"}
+{"filename": "02/test/ko/0005.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0005.png"}
+{"filename": "02/test/ko/0006.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0006.png"}
+{"filename": "02/test/ko/0007.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0007.png"}
+{"filename": "02/test/ko/0008.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0008.png"}
+{"filename": "02/test/ko/0009.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0009.png"}
+{"filename": "02/test/ko/0010.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0010.png"}
+{"filename": "02/test/ko/0011.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0011.png"}
+{"filename": "02/test/ko/0012.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0012.png"}
+{"filename": "02/test/ko/0013.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0013.png"}
+{"filename": "02/test/ko/0014.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0014.png"}
+{"filename": "02/test/ko/0015.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0015.png"}
+{"filename": "02/test/ko/0016.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0016.png"}
+{"filename": "02/test/ko/0017.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0017.png"}
+{"filename": "02/test/ko/0018.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0018.png"}
+{"filename": "02/test/ko/0019.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0019.png"}
+{"filename": "02/test/ko/0020.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0020.png"}
+{"filename": "02/test/ko/0021.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0021.png"}
+{"filename": "02/test/ko/0022.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0022.png"}
+{"filename": "02/test/ko/0023.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0023.png"}
+{"filename": "02/test/ko/0024.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0024.png"}
+{"filename": "02/test/ko/0025.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0025.png"}
+{"filename": "02/test/ko/0026.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0026.png"}
+{"filename": "02/test/ko/0027.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0027.png"}
+{"filename": "02/test/ko/0028.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0028.png"}
+{"filename": "02/test/ko/0029.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0029.png"}
+{"filename": "02/test/ko/0030.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0030.png"}
+{"filename": "02/test/ko/0031.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0031.png"}
+{"filename": "02/test/ko/0032.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0032.png"}
+{"filename": "02/test/ko/0033.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0033.png"}
+{"filename": "02/test/ko/0034.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0034.png"}
+{"filename": "02/test/ko/0035.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0035.png"}
+{"filename": "02/test/ko/0036.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0036.png"}
+{"filename": "02/test/ko/0037.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0037.png"}
+{"filename": "02/test/ko/0038.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0038.png"}
+{"filename": "02/test/ko/0039.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0039.png"}
+{"filename": "02/test/ko/0040.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0040.png"}
+{"filename": "02/test/ko/0041.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0041.png"}
+{"filename": "02/test/ko/0042.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0042.png"}
+{"filename": "02/test/ko/0043.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0043.png"}
+{"filename": "02/test/ko/0044.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0044.png"}
+{"filename": "02/test/ko/0045.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0045.png"}
+{"filename": "02/test/ko/0046.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0046.png"}
+{"filename": "02/test/ko/0047.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0047.png"}
+{"filename": "02/test/ko/0048.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0048.png"}
+{"filename": "02/test/ko/0049.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0049.png"}
+{"filename": "02/test/ko/0050.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0050.png"}
+{"filename": "02/test/ko/0051.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0051.png"}
+{"filename": "02/test/ko/0052.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0052.png"}
+{"filename": "02/test/ko/0053.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0053.png"}
+{"filename": "02/test/ko/0054.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0054.png"}
+{"filename": "02/test/ko/0055.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0055.png"}
+{"filename": "02/test/ko/0056.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0056.png"}
+{"filename": "02/test/ko/0057.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0057.png"}
+{"filename": "02/test/ko/0058.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0058.png"}
+{"filename": "02/test/ko/0059.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0059.png"}
+{"filename": "02/test/ko/0060.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0060.png"}
+{"filename": "02/test/ko/0061.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0061.png"}
+{"filename": "02/test/ko/0062.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0062.png"}
+{"filename": "02/test/ko/0063.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0063.png"}
+{"filename": "02/test/ko/0064.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0064.png"}
+{"filename": "02/test/ko/0065.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0065.png"}
+{"filename": "02/test/ko/0066.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0066.png"}
+{"filename": "02/test/ko/0067.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0067.png"}
+{"filename": "02/test/ko/0068.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0068.png"}
+{"filename": "02/test/ko/0069.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0069.png"}
+{"filename": "02/test/ko/0070.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0070.png"}
+{"filename": "02/test/ko/0071.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0071.png"}
+{"filename": "02/test/ko/0072.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0072.png"}
+{"filename": "02/test/ko/0073.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0073.png"}
+{"filename": "02/test/ko/0074.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0074.png"}
+{"filename": "02/test/ko/0075.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0075.png"}
+{"filename": "02/test/ko/0076.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0076.png"}
+{"filename": "02/test/ko/0077.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0077.png"}
+{"filename": "02/test/ko/0078.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0078.png"}
+{"filename": "02/test/ko/0079.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0079.png"}
+{"filename": "02/test/ko/0080.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0080.png"}
+{"filename": "02/test/ko/0081.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0081.png"}
+{"filename": "02/test/ko/0082.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0082.png"}
+{"filename": "02/test/ko/0083.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0083.png"}
+{"filename": "02/test/ko/0084.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0084.png"}
+{"filename": "02/test/ko/0085.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0085.png"}
+{"filename": "02/test/ko/0086.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0086.png"}
+{"filename": "02/test/ko/0087.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0087.png"}
+{"filename": "02/test/ko/0088.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0088.png"}
+{"filename": "02/test/ko/0089.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0089.png"}
+{"filename": "02/test/ko/0090.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0090.png"}
+{"filename": "02/test/ko/0091.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0091.png"}
+{"filename": "02/test/ko/0092.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0092.png"}
+{"filename": "02/test/ko/0093.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0093.png"}
+{"filename": "02/test/ko/0094.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0094.png"}
+{"filename": "02/test/ko/0095.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0095.png"}
+{"filename": "02/test/ko/0096.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0096.png"}
+{"filename": "02/test/ko/0097.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0097.png"}
+{"filename": "02/test/ko/0098.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0098.png"}
+{"filename": "02/test/ko/0099.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0099.png"}
+{"filename": "02/test/ko/0100.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0100.png"}
+{"filename": "02/test/ko/0101.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0101.png"}
+{"filename": "02/test/ko/0102.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0102.png"}
+{"filename": "02/test/ko/0103.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0103.png"}
+{"filename": "02/test/ko/0104.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0104.png"}
+{"filename": "02/test/ko/0105.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0105.png"}
+{"filename": "02/test/ko/0106.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0106.png"}
+{"filename": "02/test/ko/0107.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0107.png"}
+{"filename": "02/test/ko/0108.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0108.png"}
+{"filename": "02/test/ko/0109.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0109.png"}
+{"filename": "02/test/ko/0110.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0110.png"}
+{"filename": "02/test/ko/0111.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0111.png"}
+{"filename": "02/test/ko/0112.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0112.png"}
+{"filename": "02/test/ko/0113.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0113.png"}
+{"filename": "02/test/ko/0114.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0114.png"}
+{"filename": "02/test/ko/0115.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0115.png"}
+{"filename": "02/test/ko/0116.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0116.png"}
+{"filename": "02/test/ko/0117.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0117.png"}
+{"filename": "02/test/ko/0118.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0118.png"}
+{"filename": "02/test/ko/0119.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0119.png"}
+{"filename": "02/test/ko/0120.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0120.png"}
+{"filename": "02/test/ko/0121.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0121.png"}
+{"filename": "02/test/ko/0122.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0122.png"}
+{"filename": "02/test/ko/0123.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0123.png"}
+{"filename": "02/test/ko/0124.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0124.png"}
+{"filename": "02/test/ko/0125.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0125.png"}
+{"filename": "02/test/ko/0126.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0126.png"}
+{"filename": "02/test/ko/0127.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0127.png"}
+{"filename": "02/test/ko/0128.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0128.png"}
+{"filename": "02/test/ko/0129.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0129.png"}
+{"filename": "02/test/ko/0130.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0130.png"}
+{"filename": "02/test/ko/0131.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0131.png"}
+{"filename": "02/test/ko/0132.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0132.png"}
+{"filename": "02/test/ko/0133.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0133.png"}
+{"filename": "02/test/ko/0134.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0134.png"}
+{"filename": "02/test/ko/0135.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0135.png"}
+{"filename": "02/test/ko/0136.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0136.png"}
+{"filename": "02/test/ko/0137.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0137.png"}
+{"filename": "02/test/ko/0138.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0138.png"}
+{"filename": "02/test/ko/0139.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0139.png"}
+{"filename": "02/test/ko/0140.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0140.png"}
+{"filename": "02/test/ko/0141.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0141.png"}
+{"filename": "02/test/ko/0142.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0142.png"}
+{"filename": "02/test/ko/0143.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0143.png"}
+{"filename": "02/test/ko/0144.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0144.png"}
+{"filename": "02/test/ko/0145.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0145.png"}
+{"filename": "02/test/ko/0146.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0146.png"}
+{"filename": "02/test/ko/0147.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0147.png"}
+{"filename": "02/test/ko/0148.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0148.png"}
+{"filename": "02/test/ko/0149.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0149.png"}
+{"filename": "02/test/ko/0150.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0150.png"}
+{"filename": "02/test/ko/0151.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0151.png"}
+{"filename": "02/test/ko/0152.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0152.png"}
+{"filename": "02/test/ko/0153.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0153.png"}
+{"filename": "02/test/ko/0154.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0154.png"}
+{"filename": "02/test/ko/0155.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0155.png"}
+{"filename": "02/test/ko/0156.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0156.png"}
+{"filename": "02/test/ko/0157.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0157.png"}
+{"filename": "02/test/ko/0158.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0158.png"}
+{"filename": "02/test/ko/0159.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0159.png"}
+{"filename": "02/test/ko/0160.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0160.png"}
+{"filename": "02/test/ko/0161.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0161.png"}
+{"filename": "02/test/ko/0162.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0162.png"}
+{"filename": "02/test/ko/0163.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0163.png"}
+{"filename": "02/test/ko/0164.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0164.png"}
+{"filename": "02/test/ko/0165.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0165.png"}
+{"filename": "02/test/ko/0166.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0166.png"}
+{"filename": "02/test/ko/0167.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0167.png"}
+{"filename": "02/test/ko/0168.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0168.png"}
+{"filename": "02/test/ko/0169.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0169.png"}
+{"filename": "02/test/ko/0170.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0170.png"}
+{"filename": "02/test/ko/0171.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0171.png"}
+{"filename": "02/test/ko/0172.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0172.png"}
+{"filename": "02/test/ko/0173.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0173.png"}
+{"filename": "02/test/ko/0174.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0174.png"}
+{"filename": "02/test/ko/0175.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0175.png"}
+{"filename": "02/test/ko/0176.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0176.png"}
+{"filename": "02/test/ko/0177.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0177.png"}
+{"filename": "02/test/ko/0178.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0178.png"}
+{"filename": "02/test/ko/0179.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0179.png"}
+{"filename": "02/test/ko/0180.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0180.png"}
+{"filename": "02/test/ko/0181.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0181.png"}
+{"filename": "02/test/ko/0182.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0182.png"}
+{"filename": "02/test/ko/0183.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0183.png"}
+{"filename": "02/test/ko/0184.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0184.png"}
+{"filename": "02/test/ko/0185.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0185.png"}
+{"filename": "02/test/ko/0186.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0186.png"}
+{"filename": "02/test/ko/0187.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0187.png"}
+{"filename": "02/test/ko/0188.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0188.png"}
+{"filename": "02/test/ko/0189.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0189.png"}
+{"filename": "02/test/ko/0190.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0190.png"}
+{"filename": "02/test/ko/0191.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0191.png"}
+{"filename": "02/test/ko/0192.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0192.png"}
+{"filename": "02/test/ko/0193.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0193.png"}
+{"filename": "02/test/ko/0194.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0194.png"}
+{"filename": "02/test/ko/0195.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0195.png"}
+{"filename": "02/test/ko/0196.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0196.png"}
+{"filename": "02/test/ko/0197.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0197.png"}
+{"filename": "02/test/ko/0198.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0198.png"}
+{"filename": "02/test/ko/0199.png", "label": 1, "label_name": "defective", "clsname": "02", "maskname": "02/ground_truth/ko/0199.png"}
+{"filename": "02/test/ok/0000.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0001.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0002.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0003.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0004.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0005.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0006.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0007.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0008.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0009.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0010.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0011.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0012.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0013.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0014.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0015.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0016.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0017.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0018.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0019.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0020.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0021.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0022.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0023.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0024.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0025.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0026.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0027.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0028.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "02/test/ok/0029.png", "label": 0, "label_name": "good", "clsname": "02"}
+{"filename": "03/test/ko/0000.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0000.bmp"}
+{"filename": "03/test/ko/0001.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0001.bmp"}
+{"filename": "03/test/ko/0002.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0002.bmp"}
+{"filename": "03/test/ko/0003.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0003.bmp"}
+{"filename": "03/test/ko/0004.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0004.bmp"}
+{"filename": "03/test/ko/0005.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0005.bmp"}
+{"filename": "03/test/ko/0006.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0006.bmp"}
+{"filename": "03/test/ko/0007.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0007.bmp"}
+{"filename": "03/test/ko/0008.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0008.bmp"}
+{"filename": "03/test/ko/0009.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0009.bmp"}
+{"filename": "03/test/ko/0010.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0010.bmp"}
+{"filename": "03/test/ko/0011.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0011.bmp"}
+{"filename": "03/test/ko/0012.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0012.bmp"}
+{"filename": "03/test/ko/0013.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0013.bmp"}
+{"filename": "03/test/ko/0014.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0014.bmp"}
+{"filename": "03/test/ko/0015.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0015.bmp"}
+{"filename": "03/test/ko/0016.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0016.bmp"}
+{"filename": "03/test/ko/0017.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0017.bmp"}
+{"filename": "03/test/ko/0018.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0018.bmp"}
+{"filename": "03/test/ko/0019.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0019.bmp"}
+{"filename": "03/test/ko/0020.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0020.bmp"}
+{"filename": "03/test/ko/0021.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0021.bmp"}
+{"filename": "03/test/ko/0022.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0022.bmp"}
+{"filename": "03/test/ko/0023.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0023.bmp"}
+{"filename": "03/test/ko/0024.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0024.bmp"}
+{"filename": "03/test/ko/0025.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0025.bmp"}
+{"filename": "03/test/ko/0026.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0026.bmp"}
+{"filename": "03/test/ko/0027.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0027.bmp"}
+{"filename": "03/test/ko/0028.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0028.bmp"}
+{"filename": "03/test/ko/0029.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0029.bmp"}
+{"filename": "03/test/ko/0030.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0030.bmp"}
+{"filename": "03/test/ko/0031.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0031.bmp"}
+{"filename": "03/test/ko/0032.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0032.bmp"}
+{"filename": "03/test/ko/0033.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0033.bmp"}
+{"filename": "03/test/ko/0034.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0034.bmp"}
+{"filename": "03/test/ko/0035.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0035.bmp"}
+{"filename": "03/test/ko/0036.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0036.bmp"}
+{"filename": "03/test/ko/0037.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0037.bmp"}
+{"filename": "03/test/ko/0038.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0038.bmp"}
+{"filename": "03/test/ko/0039.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0039.bmp"}
+{"filename": "03/test/ko/0040.bmp", "label": 1, "label_name": "defective", "clsname": "03", "maskname": "03/ground_truth/ko/0040.bmp"}
+{"filename": "03/test/ok/0000.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0001.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0002.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0003.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0004.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0005.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0006.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0007.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0008.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0009.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0010.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0011.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0012.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0013.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0014.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0015.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0016.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0017.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0018.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0019.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0020.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0021.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0022.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0023.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0024.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0025.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0026.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0027.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0028.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0029.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0030.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0031.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0032.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0033.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0034.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0035.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0036.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0037.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0038.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0039.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0040.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0041.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0042.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0043.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0044.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0045.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0046.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0047.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0048.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0049.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0050.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0051.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0052.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0053.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0054.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0055.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0056.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0057.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0058.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0059.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0060.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0061.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0062.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0063.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0064.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0065.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0066.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0067.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0068.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0069.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0070.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0071.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0072.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0073.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0074.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0075.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0076.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0077.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0078.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0079.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0080.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0081.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0082.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0083.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0084.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0085.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0086.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0087.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0088.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0089.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0090.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0091.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0092.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0093.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0094.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0095.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0096.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0097.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0098.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0099.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0100.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0101.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0102.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0103.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0104.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0105.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0106.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0107.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0108.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0109.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0110.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0111.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0112.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0113.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0114.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0115.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0116.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0117.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0118.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0119.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0120.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0121.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0122.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0123.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0124.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0125.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0126.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0127.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0128.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0129.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0130.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0131.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0132.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0133.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0134.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0135.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0136.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0137.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0138.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0139.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0140.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0141.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0142.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0143.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0144.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0145.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0146.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0147.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0148.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0149.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0150.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0151.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0152.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0153.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0154.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0155.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0156.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0157.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0158.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0159.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0160.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0161.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0162.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0163.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0164.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0165.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0166.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0167.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0168.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0169.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0170.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0171.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0172.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0173.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0174.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0175.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0176.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0177.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0178.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0179.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0180.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0181.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0182.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0183.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0184.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0185.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0186.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0187.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0188.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0189.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0190.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0191.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0192.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0193.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0194.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0195.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0196.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0197.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0198.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0199.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0200.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0201.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0202.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0203.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0204.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0205.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0206.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0207.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0208.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0209.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0210.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0211.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0212.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0213.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0214.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0215.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0216.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0217.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0218.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0219.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0220.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0221.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0222.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0223.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0224.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0225.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0226.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0227.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0228.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0229.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0230.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0231.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0232.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0233.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0234.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0235.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0236.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0237.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0238.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0239.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0240.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0241.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0242.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0243.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0244.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0245.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0246.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0247.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0248.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0249.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0250.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0251.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0252.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0253.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0254.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0255.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0256.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0257.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0258.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0259.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0260.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0261.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0262.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0263.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0264.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0265.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0266.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0267.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0268.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0269.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0270.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0271.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0272.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0273.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0274.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0275.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0276.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0277.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0278.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0279.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0280.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0281.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0282.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0283.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0284.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0285.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0286.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0287.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0288.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0289.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0290.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0291.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0292.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0293.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0294.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0295.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0296.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0297.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0298.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0299.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0300.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0301.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0302.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0303.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0304.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0305.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0306.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0307.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0308.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0309.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0310.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0311.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0312.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0313.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0314.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0315.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0316.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0317.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0318.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0319.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0320.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0321.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0322.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0323.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0324.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0325.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0326.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0327.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0328.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0329.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0330.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0331.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0332.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0333.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0334.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0335.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0336.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0337.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0338.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0339.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0340.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0341.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0342.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0343.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0344.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0345.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0346.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0347.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0348.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0349.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0350.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0351.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0352.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0353.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0354.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0355.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0356.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0357.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0358.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0359.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0360.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0361.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0362.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0363.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0364.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0365.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0366.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0367.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0368.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0369.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0370.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0371.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0372.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0373.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0374.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0375.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0376.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0377.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0378.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0379.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0380.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0381.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0382.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0383.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0384.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0385.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0386.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0387.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0388.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0389.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0390.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0391.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0392.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0393.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0394.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0395.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0396.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0397.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0398.bmp", "label": 0, "label_name": "good", "clsname": "03"}
+{"filename": "03/test/ok/0399.bmp", "label": 0, "label_name": "good", "clsname": "03"}

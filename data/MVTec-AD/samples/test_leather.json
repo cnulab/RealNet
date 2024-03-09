@@ -1,0 +1,124 @@
+{"filename": "leather/test/poke/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/012_mask.png"}
+{"filename": "leather/test/poke/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/004_mask.png"}
+{"filename": "leather/test/poke/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/007_mask.png"}
+{"filename": "leather/test/poke/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/006_mask.png"}
+{"filename": "leather/test/poke/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/002_mask.png"}
+{"filename": "leather/test/poke/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/010_mask.png"}
+{"filename": "leather/test/poke/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/017_mask.png"}
+{"filename": "leather/test/poke/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/003_mask.png"}
+{"filename": "leather/test/poke/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/015_mask.png"}
+{"filename": "leather/test/poke/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/009_mask.png"}
+{"filename": "leather/test/poke/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/016_mask.png"}
+{"filename": "leather/test/poke/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/000_mask.png"}
+{"filename": "leather/test/poke/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/011_mask.png"}
+{"filename": "leather/test/poke/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/008_mask.png"}
+{"filename": "leather/test/poke/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/013_mask.png"}
+{"filename": "leather/test/poke/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/014_mask.png"}
+{"filename": "leather/test/poke/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/005_mask.png"}
+{"filename": "leather/test/poke/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/001_mask.png"}
+{"filename": "leather/test/glue/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/012_mask.png"}
+{"filename": "leather/test/glue/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/004_mask.png"}
+{"filename": "leather/test/glue/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/007_mask.png"}
+{"filename": "leather/test/glue/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/006_mask.png"}
+{"filename": "leather/test/glue/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/002_mask.png"}
+{"filename": "leather/test/glue/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/010_mask.png"}
+{"filename": "leather/test/glue/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/017_mask.png"}
+{"filename": "leather/test/glue/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/003_mask.png"}
+{"filename": "leather/test/glue/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/015_mask.png"}
+{"filename": "leather/test/glue/018.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/018_mask.png"}
+{"filename": "leather/test/glue/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/009_mask.png"}
+{"filename": "leather/test/glue/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/016_mask.png"}
+{"filename": "leather/test/glue/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/000_mask.png"}
+{"filename": "leather/test/glue/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/011_mask.png"}
+{"filename": "leather/test/glue/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/008_mask.png"}
+{"filename": "leather/test/glue/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/013_mask.png"}
+{"filename": "leather/test/glue/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/014_mask.png"}
+{"filename": "leather/test/glue/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/005_mask.png"}
+{"filename": "leather/test/glue/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/001_mask.png"}
+{"filename": "leather/test/fold/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/012_mask.png"}
+{"filename": "leather/test/fold/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/004_mask.png"}
+{"filename": "leather/test/fold/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/007_mask.png"}
+{"filename": "leather/test/fold/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/006_mask.png"}
+{"filename": "leather/test/fold/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/002_mask.png"}
+{"filename": "leather/test/fold/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/010_mask.png"}
+{"filename": "leather/test/fold/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/003_mask.png"}
+{"filename": "leather/test/fold/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/015_mask.png"}
+{"filename": "leather/test/fold/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/009_mask.png"}
+{"filename": "leather/test/fold/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/016_mask.png"}
+{"filename": "leather/test/fold/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/000_mask.png"}
+{"filename": "leather/test/fold/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/011_mask.png"}
+{"filename": "leather/test/fold/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/008_mask.png"}
+{"filename": "leather/test/fold/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/013_mask.png"}
+{"filename": "leather/test/fold/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/014_mask.png"}
+{"filename": "leather/test/fold/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/005_mask.png"}
+{"filename": "leather/test/fold/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/001_mask.png"}
+{"filename": "leather/test/good/023.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/031.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/024.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/022.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/027.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/030.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/026.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/025.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/028.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/029.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "leather/test/color/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/012_mask.png"}
+{"filename": "leather/test/color/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/004_mask.png"}
+{"filename": "leather/test/color/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/007_mask.png"}
+{"filename": "leather/test/color/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/006_mask.png"}
+{"filename": "leather/test/color/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/002_mask.png"}
+{"filename": "leather/test/color/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/010_mask.png"}
+{"filename": "leather/test/color/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/017_mask.png"}
+{"filename": "leather/test/color/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/003_mask.png"}
+{"filename": "leather/test/color/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/015_mask.png"}
+{"filename": "leather/test/color/018.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/018_mask.png"}
+{"filename": "leather/test/color/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/009_mask.png"}
+{"filename": "leather/test/color/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/016_mask.png"}
+{"filename": "leather/test/color/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/000_mask.png"}
+{"filename": "leather/test/color/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/011_mask.png"}
+{"filename": "leather/test/color/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/008_mask.png"}
+{"filename": "leather/test/color/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/013_mask.png"}
+{"filename": "leather/test/color/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/014_mask.png"}
+{"filename": "leather/test/color/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/005_mask.png"}
+{"filename": "leather/test/color/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/001_mask.png"}
+{"filename": "leather/test/cut/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/012_mask.png"}
+{"filename": "leather/test/cut/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/004_mask.png"}
+{"filename": "leather/test/cut/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/007_mask.png"}
+{"filename": "leather/test/cut/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/006_mask.png"}
+{"filename": "leather/test/cut/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/002_mask.png"}
+{"filename": "leather/test/cut/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/010_mask.png"}
+{"filename": "leather/test/cut/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/017_mask.png"}
+{"filename": "leather/test/cut/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/003_mask.png"}
+{"filename": "leather/test/cut/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/015_mask.png"}
+{"filename": "leather/test/cut/018.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/018_mask.png"}
+{"filename": "leather/test/cut/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/009_mask.png"}
+{"filename": "leather/test/cut/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/016_mask.png"}
+{"filename": "leather/test/cut/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/000_mask.png"}
+{"filename": "leather/test/cut/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/011_mask.png"}
+{"filename": "leather/test/cut/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/008_mask.png"}
+{"filename": "leather/test/cut/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/013_mask.png"}
+{"filename": "leather/test/cut/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/014_mask.png"}
+{"filename": "leather/test/cut/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/005_mask.png"}
+{"filename": "leather/test/cut/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/001_mask.png"}

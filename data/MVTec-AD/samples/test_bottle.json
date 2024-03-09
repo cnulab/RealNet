@@ -1,0 +1,83 @@
+{"filename": "bottle/test/contamination/012.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/012_mask.png"}
+{"filename": "bottle/test/contamination/004.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/004_mask.png"}
+{"filename": "bottle/test/contamination/007.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/007_mask.png"}
+{"filename": "bottle/test/contamination/006.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/006_mask.png"}
+{"filename": "bottle/test/contamination/002.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/002_mask.png"}
+{"filename": "bottle/test/contamination/010.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/010_mask.png"}
+{"filename": "bottle/test/contamination/017.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/017_mask.png"}
+{"filename": "bottle/test/contamination/019.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/019_mask.png"}
+{"filename": "bottle/test/contamination/003.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/003_mask.png"}
+{"filename": "bottle/test/contamination/015.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/015_mask.png"}
+{"filename": "bottle/test/contamination/018.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/018_mask.png"}
+{"filename": "bottle/test/contamination/009.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/009_mask.png"}
+{"filename": "bottle/test/contamination/016.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/016_mask.png"}
+{"filename": "bottle/test/contamination/000.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/000_mask.png"}
+{"filename": "bottle/test/contamination/011.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/011_mask.png"}
+{"filename": "bottle/test/contamination/020.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/020_mask.png"}
+{"filename": "bottle/test/contamination/008.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/008_mask.png"}
+{"filename": "bottle/test/contamination/013.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/013_mask.png"}
+{"filename": "bottle/test/contamination/014.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/014_mask.png"}
+{"filename": "bottle/test/contamination/005.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/005_mask.png"}
+{"filename": "bottle/test/contamination/001.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/contamination/001_mask.png"}
+{"filename": "bottle/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "bottle/test/broken_large/012.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/012_mask.png"}
+{"filename": "bottle/test/broken_large/004.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/004_mask.png"}
+{"filename": "bottle/test/broken_large/007.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/007_mask.png"}
+{"filename": "bottle/test/broken_large/006.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/006_mask.png"}
+{"filename": "bottle/test/broken_large/002.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/002_mask.png"}
+{"filename": "bottle/test/broken_large/010.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/010_mask.png"}
+{"filename": "bottle/test/broken_large/017.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/017_mask.png"}
+{"filename": "bottle/test/broken_large/019.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/019_mask.png"}
+{"filename": "bottle/test/broken_large/003.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/003_mask.png"}
+{"filename": "bottle/test/broken_large/015.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/015_mask.png"}
+{"filename": "bottle/test/broken_large/018.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/018_mask.png"}
+{"filename": "bottle/test/broken_large/009.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/009_mask.png"}
+{"filename": "bottle/test/broken_large/016.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/016_mask.png"}
+{"filename": "bottle/test/broken_large/000.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/000_mask.png"}
+{"filename": "bottle/test/broken_large/011.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/011_mask.png"}
+{"filename": "bottle/test/broken_large/008.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/008_mask.png"}
+{"filename": "bottle/test/broken_large/013.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/013_mask.png"}
+{"filename": "bottle/test/broken_large/014.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/014_mask.png"}
+{"filename": "bottle/test/broken_large/005.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/005_mask.png"}
+{"filename": "bottle/test/broken_large/001.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_large/001_mask.png"}
+{"filename": "bottle/test/broken_small/012.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/012_mask.png"}
+{"filename": "bottle/test/broken_small/004.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/004_mask.png"}
+{"filename": "bottle/test/broken_small/007.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/007_mask.png"}
+{"filename": "bottle/test/broken_small/006.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/006_mask.png"}
+{"filename": "bottle/test/broken_small/002.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/002_mask.png"}
+{"filename": "bottle/test/broken_small/010.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/010_mask.png"}
+{"filename": "bottle/test/broken_small/017.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/017_mask.png"}
+{"filename": "bottle/test/broken_small/019.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/019_mask.png"}
+{"filename": "bottle/test/broken_small/003.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/003_mask.png"}
+{"filename": "bottle/test/broken_small/015.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/015_mask.png"}
+{"filename": "bottle/test/broken_small/018.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/018_mask.png"}
+{"filename": "bottle/test/broken_small/021.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/021_mask.png"}
+{"filename": "bottle/test/broken_small/009.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/009_mask.png"}
+{"filename": "bottle/test/broken_small/016.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/016_mask.png"}
+{"filename": "bottle/test/broken_small/000.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/000_mask.png"}
+{"filename": "bottle/test/broken_small/011.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/011_mask.png"}
+{"filename": "bottle/test/broken_small/020.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/020_mask.png"}
+{"filename": "bottle/test/broken_small/008.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/008_mask.png"}
+{"filename": "bottle/test/broken_small/013.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/013_mask.png"}
+{"filename": "bottle/test/broken_small/014.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/014_mask.png"}
+{"filename": "bottle/test/broken_small/005.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/005_mask.png"}
+{"filename": "bottle/test/broken_small/001.png", "label": 1, "label_name": "defective", "maskname": "bottle/ground_truth/broken_small/001_mask.png"}

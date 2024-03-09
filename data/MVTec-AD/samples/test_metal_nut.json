@@ -1,0 +1,115 @@
+{"filename": "metal_nut/test/bent/023.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/023_mask.png"}
+{"filename": "metal_nut/test/bent/012.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/012_mask.png"}
+{"filename": "metal_nut/test/bent/024.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/024_mask.png"}
+{"filename": "metal_nut/test/bent/004.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/004_mask.png"}
+{"filename": "metal_nut/test/bent/007.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/007_mask.png"}
+{"filename": "metal_nut/test/bent/006.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/006_mask.png"}
+{"filename": "metal_nut/test/bent/002.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/002_mask.png"}
+{"filename": "metal_nut/test/bent/022.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/022_mask.png"}
+{"filename": "metal_nut/test/bent/010.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/010_mask.png"}
+{"filename": "metal_nut/test/bent/017.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/017_mask.png"}
+{"filename": "metal_nut/test/bent/019.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/019_mask.png"}
+{"filename": "metal_nut/test/bent/003.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/003_mask.png"}
+{"filename": "metal_nut/test/bent/015.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/015_mask.png"}
+{"filename": "metal_nut/test/bent/018.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/018_mask.png"}
+{"filename": "metal_nut/test/bent/021.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/021_mask.png"}
+{"filename": "metal_nut/test/bent/009.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/009_mask.png"}
+{"filename": "metal_nut/test/bent/016.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/016_mask.png"}
+{"filename": "metal_nut/test/bent/000.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/000_mask.png"}
+{"filename": "metal_nut/test/bent/011.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/011_mask.png"}
+{"filename": "metal_nut/test/bent/020.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/020_mask.png"}
+{"filename": "metal_nut/test/bent/008.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/008_mask.png"}
+{"filename": "metal_nut/test/bent/013.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/013_mask.png"}
+{"filename": "metal_nut/test/bent/014.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/014_mask.png"}
+{"filename": "metal_nut/test/bent/005.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/005_mask.png"}
+{"filename": "metal_nut/test/bent/001.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/bent/001_mask.png"}
+{"filename": "metal_nut/test/scratch/012.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/012_mask.png"}
+{"filename": "metal_nut/test/scratch/004.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/004_mask.png"}
+{"filename": "metal_nut/test/scratch/007.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/007_mask.png"}
+{"filename": "metal_nut/test/scratch/006.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/006_mask.png"}
+{"filename": "metal_nut/test/scratch/002.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/002_mask.png"}
+{"filename": "metal_nut/test/scratch/022.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/022_mask.png"}
+{"filename": "metal_nut/test/scratch/010.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/010_mask.png"}
+{"filename": "metal_nut/test/scratch/017.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/017_mask.png"}
+{"filename": "metal_nut/test/scratch/019.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/019_mask.png"}
+{"filename": "metal_nut/test/scratch/003.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/003_mask.png"}
+{"filename": "metal_nut/test/scratch/015.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/015_mask.png"}
+{"filename": "metal_nut/test/scratch/018.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/018_mask.png"}
+{"filename": "metal_nut/test/scratch/021.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/021_mask.png"}
+{"filename": "metal_nut/test/scratch/009.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/009_mask.png"}
+{"filename": "metal_nut/test/scratch/016.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/016_mask.png"}
+{"filename": "metal_nut/test/scratch/000.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/000_mask.png"}
+{"filename": "metal_nut/test/scratch/011.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/011_mask.png"}
+{"filename": "metal_nut/test/scratch/020.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/020_mask.png"}
+{"filename": "metal_nut/test/scratch/008.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/008_mask.png"}
+{"filename": "metal_nut/test/scratch/013.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/013_mask.png"}
+{"filename": "metal_nut/test/scratch/014.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/014_mask.png"}
+{"filename": "metal_nut/test/scratch/005.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/005_mask.png"}
+{"filename": "metal_nut/test/scratch/001.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/scratch/001_mask.png"}
+{"filename": "metal_nut/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "metal_nut/test/flip/012.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/012_mask.png"}
+{"filename": "metal_nut/test/flip/004.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/004_mask.png"}
+{"filename": "metal_nut/test/flip/007.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/007_mask.png"}
+{"filename": "metal_nut/test/flip/006.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/006_mask.png"}
+{"filename": "metal_nut/test/flip/002.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/002_mask.png"}
+{"filename": "metal_nut/test/flip/022.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/022_mask.png"}
+{"filename": "metal_nut/test/flip/010.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/010_mask.png"}
+{"filename": "metal_nut/test/flip/017.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/017_mask.png"}
+{"filename": "metal_nut/test/flip/019.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/019_mask.png"}
+{"filename": "metal_nut/test/flip/003.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/003_mask.png"}
+{"filename": "metal_nut/test/flip/015.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/015_mask.png"}
+{"filename": "metal_nut/test/flip/018.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/018_mask.png"}
+{"filename": "metal_nut/test/flip/021.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/021_mask.png"}
+{"filename": "metal_nut/test/flip/009.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/009_mask.png"}
+{"filename": "metal_nut/test/flip/016.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/016_mask.png"}
+{"filename": "metal_nut/test/flip/000.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/000_mask.png"}
+{"filename": "metal_nut/test/flip/011.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/011_mask.png"}
+{"filename": "metal_nut/test/flip/020.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/020_mask.png"}
+{"filename": "metal_nut/test/flip/008.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/008_mask.png"}
+{"filename": "metal_nut/test/flip/013.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/013_mask.png"}
+{"filename": "metal_nut/test/flip/014.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/014_mask.png"}
+{"filename": "metal_nut/test/flip/005.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/005_mask.png"}
+{"filename": "metal_nut/test/flip/001.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/flip/001_mask.png"}
+{"filename": "metal_nut/test/color/012.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/012_mask.png"}
+{"filename": "metal_nut/test/color/004.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/004_mask.png"}
+{"filename": "metal_nut/test/color/007.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/007_mask.png"}
+{"filename": "metal_nut/test/color/006.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/006_mask.png"}
+{"filename": "metal_nut/test/color/002.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/002_mask.png"}
+{"filename": "metal_nut/test/color/010.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/010_mask.png"}
+{"filename": "metal_nut/test/color/017.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/017_mask.png"}
+{"filename": "metal_nut/test/color/019.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/019_mask.png"}
+{"filename": "metal_nut/test/color/003.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/003_mask.png"}
+{"filename": "metal_nut/test/color/015.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/015_mask.png"}
+{"filename": "metal_nut/test/color/018.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/018_mask.png"}
+{"filename": "metal_nut/test/color/021.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/021_mask.png"}
+{"filename": "metal_nut/test/color/009.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/009_mask.png"}
+{"filename": "metal_nut/test/color/016.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/016_mask.png"}
+{"filename": "metal_nut/test/color/000.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/000_mask.png"}
+{"filename": "metal_nut/test/color/011.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/011_mask.png"}
+{"filename": "metal_nut/test/color/020.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/020_mask.png"}
+{"filename": "metal_nut/test/color/008.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/008_mask.png"}
+{"filename": "metal_nut/test/color/013.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/013_mask.png"}
+{"filename": "metal_nut/test/color/014.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/014_mask.png"}
+{"filename": "metal_nut/test/color/005.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/005_mask.png"}
+{"filename": "metal_nut/test/color/001.png", "label": 1, "label_name": "defective", "maskname": "metal_nut/ground_truth/color/001_mask.png"}

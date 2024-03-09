@@ -1,0 +1,79 @@
+{"filename": "bracket_black/test/good/000.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/001.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/002.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/003.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/004.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/005.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/006.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/007.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/008.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/009.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/010.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/011.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/012.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/013.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/014.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/015.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/016.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/017.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/018.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/019.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/020.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/021.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/022.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/023.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/024.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/025.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/026.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/027.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/028.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/029.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/030.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/good/031.png", "label": 0, "label_name": "good", "clsname": "bracket_black"}
+{"filename": "bracket_black/test/hole/000.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/000_mask.png"}
+{"filename": "bracket_black/test/hole/001.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/001_mask.png"}
+{"filename": "bracket_black/test/hole/002.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/002_mask.png"}
+{"filename": "bracket_black/test/hole/003.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/003_mask.png"}
+{"filename": "bracket_black/test/hole/004.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/004_mask.png"}
+{"filename": "bracket_black/test/hole/005.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/005_mask.png"}
+{"filename": "bracket_black/test/hole/006.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/006_mask.png"}
+{"filename": "bracket_black/test/hole/007.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/007_mask.png"}
+{"filename": "bracket_black/test/hole/008.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/008_mask.png"}
+{"filename": "bracket_black/test/hole/009.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/009_mask.png"}
+{"filename": "bracket_black/test/hole/010.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/010_mask.png"}
+{"filename": "bracket_black/test/hole/011.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/hole/011_mask.png"}
+{"filename": "bracket_black/test/scratches/000.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/000_mask.png"}
+{"filename": "bracket_black/test/scratches/001.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/001_mask.png"}
+{"filename": "bracket_black/test/scratches/002.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/002_mask.png"}
+{"filename": "bracket_black/test/scratches/003.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/003_mask.png"}
+{"filename": "bracket_black/test/scratches/004.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/004_mask.png"}
+{"filename": "bracket_black/test/scratches/005.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/005_mask.png"}
+{"filename": "bracket_black/test/scratches/006.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/006_mask.png"}
+{"filename": "bracket_black/test/scratches/007.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/007_mask.png"}
+{"filename": "bracket_black/test/scratches/008.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/008_mask.png"}
+{"filename": "bracket_black/test/scratches/009.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/009_mask.png"}
+{"filename": "bracket_black/test/scratches/010.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/010_mask.png"}
+{"filename": "bracket_black/test/scratches/011.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/011_mask.png"}
+{"filename": "bracket_black/test/scratches/012.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/012_mask.png"}
+{"filename": "bracket_black/test/scratches/013.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/013_mask.png"}
+{"filename": "bracket_black/test/scratches/014.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/014_mask.png"}
+{"filename": "bracket_black/test/scratches/015.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/015_mask.png"}
+{"filename": "bracket_black/test/scratches/016.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/016_mask.png"}
+{"filename": "bracket_black/test/scratches/017.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/017_mask.png"}
+{"filename": "bracket_black/test/scratches/018.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/018_mask.png"}
+{"filename": "bracket_black/test/scratches/019.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/019_mask.png"}
+{"filename": "bracket_black/test/scratches/020.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/020_mask.png"}
+{"filename": "bracket_black/test/scratches/021.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/021_mask.png"}
+{"filename": "bracket_black/test/scratches/022.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/022_mask.png"}
+{"filename": "bracket_black/test/scratches/023.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/023_mask.png"}
+{"filename": "bracket_black/test/scratches/024.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/024_mask.png"}
+{"filename": "bracket_black/test/scratches/025.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/025_mask.png"}
+{"filename": "bracket_black/test/scratches/026.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/026_mask.png"}
+{"filename": "bracket_black/test/scratches/027.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/027_mask.png"}
+{"filename": "bracket_black/test/scratches/028.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/028_mask.png"}
+{"filename": "bracket_black/test/scratches/029.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/029_mask.png"}
+{"filename": "bracket_black/test/scratches/030.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/030_mask.png"}
+{"filename": "bracket_black/test/scratches/031.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/031_mask.png"}
+{"filename": "bracket_black/test/scratches/032.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/032_mask.png"}
+{"filename": "bracket_black/test/scratches/033.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/033_mask.png"}
+{"filename": "bracket_black/test/scratches/034.png", "label": 1, "label_name": "defective", "clsname": "bracket_black", "maskname": "bracket_black/ground_truth/scratches/034_mask.png"}

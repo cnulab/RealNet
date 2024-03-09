@@ -1,0 +1,100 @@
+{"filename": "transistor/test/damaged_case/004.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/004_mask.png"}
+{"filename": "transistor/test/damaged_case/007.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/007_mask.png"}
+{"filename": "transistor/test/damaged_case/006.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/006_mask.png"}
+{"filename": "transistor/test/damaged_case/002.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/002_mask.png"}
+{"filename": "transistor/test/damaged_case/003.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/003_mask.png"}
+{"filename": "transistor/test/damaged_case/009.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/009_mask.png"}
+{"filename": "transistor/test/damaged_case/000.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/000_mask.png"}
+{"filename": "transistor/test/damaged_case/008.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/008_mask.png"}
+{"filename": "transistor/test/damaged_case/005.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/005_mask.png"}
+{"filename": "transistor/test/damaged_case/001.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/damaged_case/001_mask.png"}
+{"filename": "transistor/test/bent_lead/004.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/004_mask.png"}
+{"filename": "transistor/test/bent_lead/007.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/007_mask.png"}
+{"filename": "transistor/test/bent_lead/006.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/006_mask.png"}
+{"filename": "transistor/test/bent_lead/002.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/002_mask.png"}
+{"filename": "transistor/test/bent_lead/003.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/003_mask.png"}
+{"filename": "transistor/test/bent_lead/009.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/009_mask.png"}
+{"filename": "transistor/test/bent_lead/000.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/000_mask.png"}
+{"filename": "transistor/test/bent_lead/008.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/008_mask.png"}
+{"filename": "transistor/test/bent_lead/005.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/005_mask.png"}
+{"filename": "transistor/test/bent_lead/001.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/bent_lead/001_mask.png"}
+{"filename": "transistor/test/cut_lead/004.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/004_mask.png"}
+{"filename": "transistor/test/cut_lead/007.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/007_mask.png"}
+{"filename": "transistor/test/cut_lead/006.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/006_mask.png"}
+{"filename": "transistor/test/cut_lead/002.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/002_mask.png"}
+{"filename": "transistor/test/cut_lead/003.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/003_mask.png"}
+{"filename": "transistor/test/cut_lead/009.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/009_mask.png"}
+{"filename": "transistor/test/cut_lead/000.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/000_mask.png"}
+{"filename": "transistor/test/cut_lead/008.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/008_mask.png"}
+{"filename": "transistor/test/cut_lead/005.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/005_mask.png"}
+{"filename": "transistor/test/cut_lead/001.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/cut_lead/001_mask.png"}
+{"filename": "transistor/test/good/023.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/043.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/031.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/054.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/048.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/012.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/050.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/024.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/004.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/007.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/006.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/044.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/051.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/049.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/002.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/022.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/045.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/038.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/010.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/034.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/017.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/019.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/003.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/027.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/015.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/018.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/032.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/021.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/040.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/059.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/039.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/030.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/026.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/037.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/052.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/047.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/025.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/041.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/009.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/033.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/028.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/016.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/000.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/011.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/055.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/058.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/053.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/020.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/008.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/046.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/056.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/036.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/042.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/035.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/013.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/014.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/005.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/029.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/001.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/good/057.png", "label": 0, "label_name": "good"}
+{"filename": "transistor/test/misplaced/004.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/004_mask.png"}
+{"filename": "transistor/test/misplaced/007.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/007_mask.png"}
+{"filename": "transistor/test/misplaced/006.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/006_mask.png"}
+{"filename": "transistor/test/misplaced/002.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/002_mask.png"}
+{"filename": "transistor/test/misplaced/003.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/003_mask.png"}
+{"filename": "transistor/test/misplaced/009.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/009_mask.png"}
+{"filename": "transistor/test/misplaced/000.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/000_mask.png"}
+{"filename": "transistor/test/misplaced/008.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/008_mask.png"}
+{"filename": "transistor/test/misplaced/005.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/005_mask.png"}
+{"filename": "transistor/test/misplaced/001.png", "label": 1, "label_name": "defective", "maskname": "transistor/ground_truth/misplaced/001_mask.png"}

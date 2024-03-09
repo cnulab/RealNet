@@ -1,0 +1,97 @@
+{"filename": "metal_plate/test/good/000.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/001.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/002.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/003.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/004.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/005.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/006.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/007.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/008.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/009.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/010.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/011.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/012.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/013.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/014.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/015.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/016.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/017.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/018.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/019.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/020.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/021.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/022.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/023.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/024.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/good/025.png", "label": 0, "label_name": "good", "clsname": "metal_plate"}
+{"filename": "metal_plate/test/major_rust/000.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/000_mask.png"}
+{"filename": "metal_plate/test/major_rust/001.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/001_mask.png"}
+{"filename": "metal_plate/test/major_rust/002.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/002_mask.png"}
+{"filename": "metal_plate/test/major_rust/003.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/003_mask.png"}
+{"filename": "metal_plate/test/major_rust/004.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/004_mask.png"}
+{"filename": "metal_plate/test/major_rust/005.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/005_mask.png"}
+{"filename": "metal_plate/test/major_rust/006.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/006_mask.png"}
+{"filename": "metal_plate/test/major_rust/007.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/007_mask.png"}
+{"filename": "metal_plate/test/major_rust/008.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/008_mask.png"}
+{"filename": "metal_plate/test/major_rust/009.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/009_mask.png"}
+{"filename": "metal_plate/test/major_rust/010.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/010_mask.png"}
+{"filename": "metal_plate/test/major_rust/011.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/011_mask.png"}
+{"filename": "metal_plate/test/major_rust/012.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/012_mask.png"}
+{"filename": "metal_plate/test/major_rust/013.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/major_rust/013_mask.png"}
+{"filename": "metal_plate/test/scratches/000.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/000_mask.png"}
+{"filename": "metal_plate/test/scratches/001.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/001_mask.png"}
+{"filename": "metal_plate/test/scratches/002.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/002_mask.png"}
+{"filename": "metal_plate/test/scratches/003.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/003_mask.png"}
+{"filename": "metal_plate/test/scratches/004.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/004_mask.png"}
+{"filename": "metal_plate/test/scratches/005.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/005_mask.png"}
+{"filename": "metal_plate/test/scratches/006.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/006_mask.png"}
+{"filename": "metal_plate/test/scratches/007.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/007_mask.png"}
+{"filename": "metal_plate/test/scratches/008.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/008_mask.png"}
+{"filename": "metal_plate/test/scratches/009.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/009_mask.png"}
+{"filename": "metal_plate/test/scratches/010.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/010_mask.png"}
+{"filename": "metal_plate/test/scratches/011.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/011_mask.png"}
+{"filename": "metal_plate/test/scratches/012.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/012_mask.png"}
+{"filename": "metal_plate/test/scratches/013.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/013_mask.png"}
+{"filename": "metal_plate/test/scratches/014.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/014_mask.png"}
+{"filename": "metal_plate/test/scratches/015.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/015_mask.png"}
+{"filename": "metal_plate/test/scratches/016.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/016_mask.png"}
+{"filename": "metal_plate/test/scratches/017.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/017_mask.png"}
+{"filename": "metal_plate/test/scratches/018.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/018_mask.png"}
+{"filename": "metal_plate/test/scratches/019.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/019_mask.png"}
+{"filename": "metal_plate/test/scratches/020.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/020_mask.png"}
+{"filename": "metal_plate/test/scratches/021.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/021_mask.png"}
+{"filename": "metal_plate/test/scratches/022.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/022_mask.png"}
+{"filename": "metal_plate/test/scratches/023.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/023_mask.png"}
+{"filename": "metal_plate/test/scratches/024.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/024_mask.png"}
+{"filename": "metal_plate/test/scratches/025.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/025_mask.png"}
+{"filename": "metal_plate/test/scratches/026.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/026_mask.png"}
+{"filename": "metal_plate/test/scratches/027.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/027_mask.png"}
+{"filename": "metal_plate/test/scratches/028.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/028_mask.png"}
+{"filename": "metal_plate/test/scratches/029.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/029_mask.png"}
+{"filename": "metal_plate/test/scratches/030.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/030_mask.png"}
+{"filename": "metal_plate/test/scratches/031.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/031_mask.png"}
+{"filename": "metal_plate/test/scratches/032.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/032_mask.png"}
+{"filename": "metal_plate/test/scratches/033.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/scratches/033_mask.png"}
+{"filename": "metal_plate/test/total_rust/000.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/000_mask.png"}
+{"filename": "metal_plate/test/total_rust/001.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/001_mask.png"}
+{"filename": "metal_plate/test/total_rust/002.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/002_mask.png"}
+{"filename": "metal_plate/test/total_rust/003.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/003_mask.png"}
+{"filename": "metal_plate/test/total_rust/004.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/004_mask.png"}
+{"filename": "metal_plate/test/total_rust/005.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/005_mask.png"}
+{"filename": "metal_plate/test/total_rust/006.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/006_mask.png"}
+{"filename": "metal_plate/test/total_rust/007.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/007_mask.png"}
+{"filename": "metal_plate/test/total_rust/008.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/008_mask.png"}
+{"filename": "metal_plate/test/total_rust/009.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/009_mask.png"}
+{"filename": "metal_plate/test/total_rust/010.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/010_mask.png"}
+{"filename": "metal_plate/test/total_rust/011.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/011_mask.png"}
+{"filename": "metal_plate/test/total_rust/012.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/012_mask.png"}
+{"filename": "metal_plate/test/total_rust/013.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/013_mask.png"}
+{"filename": "metal_plate/test/total_rust/014.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/014_mask.png"}
+{"filename": "metal_plate/test/total_rust/015.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/015_mask.png"}
+{"filename": "metal_plate/test/total_rust/016.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/016_mask.png"}
+{"filename": "metal_plate/test/total_rust/017.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/017_mask.png"}
+{"filename": "metal_plate/test/total_rust/018.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/018_mask.png"}
+{"filename": "metal_plate/test/total_rust/019.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/019_mask.png"}
+{"filename": "metal_plate/test/total_rust/020.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/020_mask.png"}
+{"filename": "metal_plate/test/total_rust/021.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/021_mask.png"}
+{"filename": "metal_plate/test/total_rust/022.png", "label": 1, "label_name": "defective", "clsname": "metal_plate", "maskname": "metal_plate/ground_truth/total_rust/022_mask.png"}
