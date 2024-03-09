@@ -1,0 +1,157 @@
+version: v1.0.0
+random_seed: 100
+
+dataset:
+  type: mvtec
+  image_reader:
+    type: opencv
+    kwargs:
+      image_dir: data/MVTec-AD/mvtec/
+      color_mode: RGB
+  train:
+    meta_file: data/MVTec-AD/samples/train_{}.json
+    dtd_dir: data/DTD/images
+    sdas_dir: data/MVTec-AD/sdas/{}
+    dtd_transparency_range: [0.2, 1.0]
+    sdas_transparency_range: [0.5, 1.0]
+    perlin_scale: 6
+    min_perlin_scale: 0
+    hflip: False
+    vflip: False
+    rotate: False
+    # use SDAS only
+    anomaly_types:
+      normal: 0.5
+      sdas: 0.5
+
+    # use DTD only
+    # anomaly_types:
+    #  normal: 0.5
+    #  dtd: 0.5
+
+    # use both SDAS and DTD
+    # anomaly_types:
+    #  normal: 0.5
+    #  dtd: 0.25
+    #  sdas: 0.25
+  test:
+    meta_file: ./data/MVTec-AD/samples/test_{}.json
+  input_size: [256,256]
+  pixel_mean: [0.485, 0.456, 0.406]
+  pixel_std:  [0.229, 0.224, 0.225]
+  batch_size: 16
+  workers: 4
+
+
+structure:
+  - name: block1
+    layers:
+      - idx: layer1
+        planes: 256
+    stride: 4
+
+  - name: block2
+    layers:
+      - idx: layer2
+        planes: 512
+    stride: 8
+
+  - name: block3
+    layers:
+      - idx: layer3
+        planes: 512
+    stride: 16
+
+  - name: block4
+    layers:
+      - idx: layer4
+        planes: 256
+    stride: 32
+
+# architecture B in paper, training requires 32GB GPU memory.
+#structure:
+#  - name: block1
+#    layers:
+#      - idx: layer1
+#        planes: 256
+#      - idx: layer2
+#        planes: 512
+#    stride: 4
+#
+#  - name: block2
+#    layers:
+#      - idx: layer3
+#        planes: 512
+#      - idx: layer4
+#        planes: 256
+#    stride: 16
+
+
+net:
+  - name: backbone
+    type: models.backbones.Backbone
+    frozen: True
+    kwargs:
+      backbone: wide_resnet50_2
+
+  - name: afs
+    type: models.afs.AFS
+    frozen: True
+    prev: backbone
+    kwargs:
+      init_bsn: 64
+
+  - name: recon
+    type: models.recon.ReconstructionLayer
+    prev: afs
+    kwargs:
+      num_res_blocks: 2
+      hide_channels_ratio: 0.5
+      channel_mult: [1,2,4]
+      attention_mult: [2,4]
+
+  - name: rrs
+    type: models.rrs.RRS
+    prev: recon
+    kwargs:
+      modes: [max,mean]
+      mode_numbers: [256,256] # dimensions of RRS, max=256,mean=256
+      num_residual_layers: 2
+      stop_grad: False
+
+trainer:
+  max_epoch: 1000
+  val_freq_epoch: 5
+  print_freq_step: 20
+  optimizer:
+    type: Adam
+    kwargs:
+      lr: 0.0001
+      betas: [0.9, 0.999]
+
+
+saver:
+  checkpoints_dir: realnet_checkpoints/
+  log_dir: realnet_log/
+  vis_dir: realnet_vis/
+
+
+criterion:
+  - name: SegmentCrossEntropyLoss
+    type: SegmentCrossEntropyLoss
+    kwargs:
+      weight: 1.0
+  - name: FeatureMSELoss
+    type: FeatureMSELoss
+    kwargs:
+      weight: 1.0
+
+
+evaluator:
+  key_metric: mean
+  metrics:
+    auc:
+      - name: image
+        kwargs:
+          avgpool_size: [16, 16]
+      - name: pixel

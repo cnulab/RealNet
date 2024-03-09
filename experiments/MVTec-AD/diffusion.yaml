@@ -1,0 +1,83 @@
+version: v1.0.0
+random_seed: 100
+
+
+dataset:
+  type: sdas
+  image_reader:
+    type: opencv
+    kwargs:
+      image_dir: ./data/MVTec-AD/mvtec/
+      color_mode: RGB
+  train:
+    meta_file: ./data/MVTec-AD/samples/train_uni.json
+    hflip: False
+    vflip: False
+    rotate: False
+  test:
+    meta_file: ./data/MVTec-AD/samples/train_uni.json
+  input_size: [256,256]
+  pixel_mean: [ 0.485, 0.456, 0.406 ]
+  pixel_std: [ 0.229, 0.224, 0.225 ]
+  batch_size: 5
+  workers: 2
+
+
+unet:
+  classifier_width: 256
+  learn_sigma: True
+  classifier_depth: 2
+  attention_resolutions: [32,16,8]
+  dropout: 0.0
+  channel_mult: [1, 1, 2, 2, 4, 4]
+  class_number: 15
+  num_heads: 4
+  num_heads_upsample: -1
+  num_head_channels: 64
+  use_scale_shift_norm: True
+  resblock_updown: True
+  pertrain_path: pretrain/256x256_diffusion.pt
+
+
+trainer:
+  use_fp16: False
+  max_epoch: 1000
+  val_batch_number: 6
+  val_freq_epoch: 10
+  print_freq_step: 30
+  accumulate: 3
+  clip_max_norm: 1.0
+  ema_decay: 0.9999
+  optimizer:
+    type: Adam
+    kwargs:
+      lr: 0.0001
+      weight_decay: 0
+      betas: [0.9, 0.999]
+
+
+criterion:
+  - name: ImageMSELoss
+    type: ImageMSELoss
+    kwargs:
+      weight: 1.0
+
+
+TrainSampler:
+  T: 1000
+  section_counts: ddim1000
+  beta_scheduler: linear
+  rescale_timesteps: False
+
+
+TestSampler:
+  T: 1000
+  section_counts: ddim20
+  beta_scheduler: linear
+  rescale_timesteps: False
+
+
+saver:
+  checkpoints_dir: diffusion_checkpoints/
+  log_dir: diffusion_log/
+  vis_dir: diffusion_vis/

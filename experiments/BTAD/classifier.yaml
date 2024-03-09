@@ -1,0 +1,64 @@
+version: v1.0.0
+random_seed: 100
+
+dataset:
+  type: sdas
+  image_reader:
+    type: opencv
+    kwargs:
+      image_dir: ./data/BTAD/btad/
+      color_mode: RGB
+  train:
+    meta_file: ./data/BTAD/samples/train_uni.json
+    hflip: False
+    vflip: False
+    rotate: False
+  input_size: [256,256]
+  pixel_mean: [ 0.485, 0.456, 0.406 ]
+  pixel_std:  [ 0.229, 0.224, 0.225 ]
+  batch_size: 20
+  workers: 4
+
+
+classifier:
+  classifier_width: 128
+  class_number: 3
+  classifier_depth: 2
+  classifier_attention_resolutions: [32,16,8]
+  channel_mult: [1, 1, 2, 2, 4, 4]
+  classifier_use_scale_shift_norm: True
+  classifier_resblock_updown: True
+  classifier_pool: attention
+  pertrain_path: pretrain/256x256_classifier.pt
+
+
+trainer:
+  max_epoch: 1000
+  save_freq_epoch: 5
+  print_freq_step: 20
+  clip_max_norm: 1.0
+  optimizer:
+    type: Adam
+    kwargs:
+      lr: 0.0001
+      weight_decay: 0
+      betas: [0.9, 0.999]
+
+
+TrainSampler:
+  T: 1000
+  section_counts: ddim1000
+  beta_scheduler: linear
+  rescale_timesteps: False
+
+
+saver:
+  checkpoints_dir: classifier_checkpoints/
+  log_dir: classifier_log/
+
+
+criterion:
+  - name: ClassifierCrossEntropyLoss
+    type: ClassifierCrossEntropyLoss
+    kwargs:
+      weight: 1.0

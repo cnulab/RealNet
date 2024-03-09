@@ -1,0 +1,48 @@
+version: v1.0.0
+
+dataset:
+  batch_size: 16
+  channels: 3
+  H: 256
+  W: 256
+
+classifier_scale: 1.0 # guidance strength
+sample_number: 256  # number of sampled images
+
+unet:
+  classifier_width: 256
+  learn_sigma: True
+  classifier_depth: 2
+  attention_resolutions: [32,16,8]
+  dropout: 0.0
+  channel_mult: [1, 1, 2, 2, 4, 4]
+  class_number: 15
+  num_heads: 4
+  num_heads_upsample: -1
+  num_head_channels: 64
+  use_scale_shift_norm: True
+  resblock_updown: True
+  pertrain_path: experiments/MVTec-AD/diffusion_checkpoints/mvtec_diffusion_ckpt_epoch_240.pt
+
+
+classifier:
+  classifier_width: 128
+  class_number: 15
+  classifier_depth: 2
+  classifier_attention_resolutions: [32,16,8]
+  channel_mult: [1, 1, 2, 2, 4, 4]
+  classifier_use_scale_shift_norm: True
+  classifier_resblock_updown: True
+  classifier_pool: attention
+  pertrain_path: experiments/MVTec-AD/classifier_checkpoints/mvtec_classifier_ckpt_epoch_428.pt
+
+
+TestSampler:
+  T: 1000
+  section_counts: ddim20 #reverse diffusion step
+  beta_scheduler: linear
+  rescale_timesteps: False
+
+
+workspace:
+  root: data/MVTec-AD/sdas
