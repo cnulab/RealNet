@@ -1,0 +1,13 @@
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
+Pillow==9.1.1
+timm==0.5.4
+scikit-image==0.19.3
+scikit-learn==1.1.2
+opencv-python==4.6.0.66
+grad_cam==1.4.3
+tqdm==4.61.2
+PyYAML==6.0
+easydict==1.10
+imgaug==0.4.0
+tabulate==0.9.0
