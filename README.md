@@ -1,6 +1,6 @@
 # RealNet
 
-**💡 This is the official implementation of the paper "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection (CVPR 2024)"**  
+**💡 This is the official implementation of the paper "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection (CVPR 2024)" [[arxiv]](https://arxiv.org/abs/2403.05897)**  
   
   
 RealNet is a simple yet effective framework that incorporates three key innovations: First, we propose Strength-controllable Diffusion Anomaly Synthesis (SDAS), a diffusion process-based synthesis strategy capable of generating samples with varying anomaly strengths that mimic the distribution of real anomalous samples. Second, we develop Anomaly-aware Features Selection (AFS), a method for selecting representative and discriminative pre-trained feature subsets to improve anomaly detection performance while controlling computational costs. Third, we introduce Reconstruction Residuals Selection (RRS), a strategy that adaptively selects discriminative residuals for comprehensive identification of anomalous regions across multiple levels of granularity.
@@ -130,6 +130,13 @@ Code reference: **[UniAD](https://github.com/zhiyuanyou/UniAD)** and **[BeatGans
 
 If this work is helpful to you, please cite it as:
 ```
-coming soon.
+@inproceedings{zhang2024realnet,
+      title={RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection}, 
+      author={Ximiao Zhang, Min Xu, and Xiuzhuang Zhou},
+      year={2024},
+      eprint={2403.05897},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
