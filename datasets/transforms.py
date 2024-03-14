@@ -83,7 +83,7 @@ class RandomColorJitter(object):
                 raise ValueError("{} values should be between {}".format(name, bound))
         else:
             raise TypeError(
-                "{} should be a single number or a list/tuple with lenght 2.".format(
+                "{} should be a single number or a list/tuple with length 2.".format(
                     name
                 )
             )
