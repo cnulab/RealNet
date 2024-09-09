@@ -68,7 +68,7 @@ structure:
         planes: 256
     stride: 32
 
-# architecture B in paper, training requires 32GB GPU memory.
+# architecture C in paper, training requires 32GB GPU memory.
 #structure:
 #  - name: block1
 #    layers:
